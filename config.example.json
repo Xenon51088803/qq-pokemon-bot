@@ -1,0 +1,12 @@
+{
+  "pool_min": 1,
+  "pool_max": 1025,
+  "draw_cooldown_seconds": 3,
+  "dex_cooldown_seconds": 15,
+  "group_images_per_minute": 10,
+  "cache_max_mb": 500,
+  "cache_days": 7,
+  "render_workers": 2,
+  "render_queue_limit": 16,
+  "font_path": null
+}

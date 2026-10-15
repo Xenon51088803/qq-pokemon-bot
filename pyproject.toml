@@ -1,0 +1,9 @@
+[project]
+name = "qq-pokemon-local"
+version = "0.2.0"
+description = "National Pokedex collection bot with daily ten-item exploration and offline QQ simulator"
+requires-python = ">=3.12"
+dependencies = ["Pillow>=10.4,<13", "aiohttp>=3.12,<4"]
+
+[tool.setuptools.packages.find]
+include = ["pokebot*"]

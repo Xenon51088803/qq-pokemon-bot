@@ -1,0 +1,6164 @@
+[
+  {
+    "id": 1,
+    "name": "妙蛙种子",
+    "english_name": "Bulbasaur",
+    "generation": 1
+  },
+  {
+    "id": 2,
+    "name": "妙蛙草",
+    "english_name": "Ivysaur",
+    "generation": 1
+  },
+  {
+    "id": 3,
+    "name": "妙蛙花",
+    "english_name": "Venusaur",
+    "generation": 1
+  },
+  {
+    "id": 4,
+    "name": "小火龙",
+    "english_name": "Charmander",
+    "generation": 1
+  },
+  {
+    "id": 5,
+    "name": "火恐龙",
+    "english_name": "Charmeleon",
+    "generation": 1
+  },
+  {
+    "id": 6,
+    "name": "喷火龙",
+    "english_name": "Charizard",
+    "generation": 1
+  },
+  {
+    "id": 7,
+    "name": "杰尼龟",
+    "english_name": "Squirtle",
+    "generation": 1
+  },
+  {
+    "id": 8,
+    "name": "卡咪龟",
+    "english_name": "Wartortle",
+    "generation": 1
+  },
+  {
+    "id": 9,
+    "name": "水箭龟",
+    "english_name": "Blastoise",
+    "generation": 1
+  },
+  {
+    "id": 10,
+    "name": "绿毛虫",
+    "english_name": "Caterpie",
+    "generation": 1
+  },
+  {
+    "id": 11,
+    "name": "铁甲蛹",
+    "english_name": "Metapod",
+    "generation": 1
+  },
+  {
+    "id": 12,
+    "name": "巴大蝶",
+    "english_name": "Butterfree",
+    "generation": 1
+  },
+  {
+    "id": 13,
+    "name": "独角虫",
+    "english_name": "Weedle",
+    "generation": 1
+  },
+  {
+    "id": 14,
+    "name": "铁壳蛹",
+    "english_name": "Kakuna",
+    "generation": 1
+  },
+  {
+    "id": 15,
+    "name": "大针蜂",
+    "english_name": "Beedrill",
+    "generation": 1
+  },
+  {
+    "id": 16,
+    "name": "波波",
+    "english_name": "Pidgey",
+    "generation": 1
+  },
+  {
+    "id": 17,
+    "name": "比比鸟",
+    "english_name": "Pidgeotto",
+    "generation": 1
+  },
+  {
+    "id": 18,
+    "name": "大比鸟",
+    "english_name": "Pidgeot",
+    "generation": 1
+  },
+  {
+    "id": 19,
+    "name": "小拉达",
+    "english_name": "Rattata",
+    "generation": 1
+  },
+  {
+    "id": 20,
+    "name": "拉达",
+    "english_name": "Raticate",
+    "generation": 1
+  },
+  {
+    "id": 21,
+    "name": "烈雀",
+    "english_name": "Spearow",
+    "generation": 1
+  },
+  {
+    "id": 22,
+    "name": "大嘴雀",
+    "english_name": "Fearow",
+    "generation": 1
+  },
+  {
+    "id": 23,
+    "name": "阿柏蛇",
+    "english_name": "Ekans",
+    "generation": 1
+  },
+  {
+    "id": 24,
+    "name": "阿柏怪",
+    "english_name": "Arbok",
+    "generation": 1
+  },
+  {
+    "id": 25,
+    "name": "皮卡丘",
+    "english_name": "Pikachu",
+    "generation": 1
+  },
+  {
+    "id": 26,
+    "name": "雷丘",
+    "english_name": "Raichu",
+    "generation": 1
+  },
+  {
+    "id": 27,
+    "name": "穿山鼠",
+    "english_name": "Sandshrew",
+    "generation": 1
+  },
+  {
+    "id": 28,
+    "name": "穿山王",
+    "english_name": "Sandslash",
+    "generation": 1
+  },
+  {
+    "id": 29,
+    "name": "尼多兰",
+    "english_name": "Nidoran♀",
+    "generation": 1
+  },
+  {
+    "id": 30,
+    "name": "尼多娜",
+    "english_name": "Nidorina",
+    "generation": 1
+  },
+  {
+    "id": 31,
+    "name": "尼多后",
+    "english_name": "Nidoqueen",
+    "generation": 1
+  },
+  {
+    "id": 32,
+    "name": "尼多朗",
+    "english_name": "Nidoran♂",
+    "generation": 1
+  },
+  {
+    "id": 33,
+    "name": "尼多力诺",
+    "english_name": "Nidorino",
+    "generation": 1
+  },
+  {
+    "id": 34,
+    "name": "尼多王",
+    "english_name": "Nidoking",
+    "generation": 1
+  },
+  {
+    "id": 35,
+    "name": "皮皮",
+    "english_name": "Clefairy",
+    "generation": 1
+  },
+  {
+    "id": 36,
+    "name": "皮可西",
+    "english_name": "Clefable",
+    "generation": 1
+  },
+  {
+    "id": 37,
+    "name": "六尾",
+    "english_name": "Vulpix",
+    "generation": 1
+  },
+  {
+    "id": 38,
+    "name": "九尾",
+    "english_name": "Ninetales",
+    "generation": 1
+  },
+  {
+    "id": 39,
+    "name": "胖丁",
+    "english_name": "Jigglypuff",
+    "generation": 1
+  },
+  {
+    "id": 40,
+    "name": "胖可丁",
+    "english_name": "Wigglytuff",
+    "generation": 1
+  },
+  {
+    "id": 41,
+    "name": "超音蝠",
+    "english_name": "Zubat",
+    "generation": 1
+  },
+  {
+    "id": 42,
+    "name": "大嘴蝠",
+    "english_name": "Golbat",
+    "generation": 1
+  },
+  {
+    "id": 43,
+    "name": "走路草",
+    "english_name": "Oddish",
+    "generation": 1
+  },
+  {
+    "id": 44,
+    "name": "臭臭花",
+    "english_name": "Gloom",
+    "generation": 1
+  },
+  {
+    "id": 45,
+    "name": "霸王花",
+    "english_name": "Vileplume",
+    "generation": 1
+  },
+  {
+    "id": 46,
+    "name": "派拉斯",
+    "english_name": "Paras",
+    "generation": 1
+  },
+  {
+    "id": 47,
+    "name": "派拉斯特",
+    "english_name": "Parasect",
+    "generation": 1
+  },
+  {
+    "id": 48,
+    "name": "毛球",
+    "english_name": "Venonat",
+    "generation": 1
+  },
+  {
+    "id": 49,
+    "name": "摩鲁蛾",
+    "english_name": "Venomoth",
+    "generation": 1
+  },
+  {
+    "id": 50,
+    "name": "地鼠",
+    "english_name": "Diglett",
+    "generation": 1
+  },
+  {
+    "id": 51,
+    "name": "三地鼠",
+    "english_name": "Dugtrio",
+    "generation": 1
+  },
+  {
+    "id": 52,
+    "name": "喵喵",
+    "english_name": "Meowth",
+    "generation": 1
+  },
+  {
+    "id": 53,
+    "name": "猫老大",
+    "english_name": "Persian",
+    "generation": 1
+  },
+  {
+    "id": 54,
+    "name": "可达鸭",
+    "english_name": "Psyduck",
+    "generation": 1
+  },
+  {
+    "id": 55,
+    "name": "哥达鸭",
+    "english_name": "Golduck",
+    "generation": 1
+  },
+  {
+    "id": 56,
+    "name": "猴怪",
+    "english_name": "Mankey",
+    "generation": 1
+  },
+  {
+    "id": 57,
+    "name": "火暴猴",
+    "english_name": "Primeape",
+    "generation": 1
+  },
+  {
+    "id": 58,
+    "name": "卡蒂狗",
+    "english_name": "Growlithe",
+    "generation": 1
+  },
+  {
+    "id": 59,
+    "name": "风速狗",
+    "english_name": "Arcanine",
+    "generation": 1
+  },
+  {
+    "id": 60,
+    "name": "蚊香蝌蚪",
+    "english_name": "Poliwag",
+    "generation": 1
+  },
+  {
+    "id": 61,
+    "name": "蚊香君",
+    "english_name": "Poliwhirl",
+    "generation": 1
+  },
+  {
+    "id": 62,
+    "name": "蚊香泳士",
+    "english_name": "Poliwrath",
+    "generation": 1
+  },
+  {
+    "id": 63,
+    "name": "凯西",
+    "english_name": "Abra",
+    "generation": 1
+  },
+  {
+    "id": 64,
+    "name": "勇基拉",
+    "english_name": "Kadabra",
+    "generation": 1
+  },
+  {
+    "id": 65,
+    "name": "胡地",
+    "english_name": "Alakazam",
+    "generation": 1
+  },
+  {
+    "id": 66,
+    "name": "腕力",
+    "english_name": "Machop",
+    "generation": 1
+  },
+  {
+    "id": 67,
+    "name": "豪力",
+    "english_name": "Machoke",
+    "generation": 1
+  },
+  {
+    "id": 68,
+    "name": "怪力",
+    "english_name": "Machamp",
+    "generation": 1
+  },
+  {
+    "id": 69,
+    "name": "喇叭芽",
+    "english_name": "Bellsprout",
+    "generation": 1
+  },
+  {
+    "id": 70,
+    "name": "口呆花",
+    "english_name": "Weepinbell",
+    "generation": 1
+  },
+  {
+    "id": 71,
+    "name": "大食花",
+    "english_name": "Victreebel",
+    "generation": 1
+  },
+  {
+    "id": 72,
+    "name": "玛瑙水母",
+    "english_name": "Tentacool",
+    "generation": 1
+  },
+  {
+    "id": 73,
+    "name": "毒刺水母",
+    "english_name": "Tentacruel",
+    "generation": 1
+  },
+  {
+    "id": 74,
+    "name": "小拳石",
+    "english_name": "Geodude",
+    "generation": 1
+  },
+  {
+    "id": 75,
+    "name": "隆隆石",
+    "english_name": "Graveler",
+    "generation": 1
+  },
+  {
+    "id": 76,
+    "name": "隆隆岩",
+    "english_name": "Golem",
+    "generation": 1
+  },
+  {
+    "id": 77,
+    "name": "小火马",
+    "english_name": "Ponyta",
+    "generation": 1
+  },
+  {
+    "id": 78,
+    "name": "烈焰马",
+    "english_name": "Rapidash",
+    "generation": 1
+  },
+  {
+    "id": 79,
+    "name": "呆呆兽",
+    "english_name": "Slowpoke",
+    "generation": 1
+  },
+  {
+    "id": 80,
+    "name": "呆壳兽",
+    "english_name": "Slowbro",
+    "generation": 1
+  },
+  {
+    "id": 81,
+    "name": "小磁怪",
+    "english_name": "Magnemite",
+    "generation": 1
+  },
+  {
+    "id": 82,
+    "name": "三合一磁怪",
+    "english_name": "Magneton",
+    "generation": 1
+  },
+  {
+    "id": 83,
+    "name": "大葱鸭",
+    "english_name": "Farfetch’d",
+    "generation": 1
+  },
+  {
+    "id": 84,
+    "name": "嘟嘟",
+    "english_name": "Doduo",
+    "generation": 1
+  },
+  {
+    "id": 85,
+    "name": "嘟嘟利",
+    "english_name": "Dodrio",
+    "generation": 1
+  },
+  {
+    "id": 86,
+    "name": "小海狮",
+    "english_name": "Seel",
+    "generation": 1
+  },
+  {
+    "id": 87,
+    "name": "白海狮",
+    "english_name": "Dewgong",
+    "generation": 1
+  },
+  {
+    "id": 88,
+    "name": "臭泥",
+    "english_name": "Grimer",
+    "generation": 1
+  },
+  {
+    "id": 89,
+    "name": "臭臭泥",
+    "english_name": "Muk",
+    "generation": 1
+  },
+  {
+    "id": 90,
+    "name": "大舌贝",
+    "english_name": "Shellder",
+    "generation": 1
+  },
+  {
+    "id": 91,
+    "name": "刺甲贝",
+    "english_name": "Cloyster",
+    "generation": 1
+  },
+  {
+    "id": 92,
+    "name": "鬼斯",
+    "english_name": "Gastly",
+    "generation": 1
+  },
+  {
+    "id": 93,
+    "name": "鬼斯通",
+    "english_name": "Haunter",
+    "generation": 1
+  },
+  {
+    "id": 94,
+    "name": "耿鬼",
+    "english_name": "Gengar",
+    "generation": 1
+  },
+  {
+    "id": 95,
+    "name": "大岩蛇",
+    "english_name": "Onix",
+    "generation": 1
+  },
+  {
+    "id": 96,
+    "name": "催眠貘",
+    "english_name": "Drowzee",
+    "generation": 1
+  },
+  {
+    "id": 97,
+    "name": "引梦貘人",
+    "english_name": "Hypno",
+    "generation": 1
+  },
+  {
+    "id": 98,
+    "name": "大钳蟹",
+    "english_name": "Krabby",
+    "generation": 1
+  },
+  {
+    "id": 99,
+    "name": "巨钳蟹",
+    "english_name": "Kingler",
+    "generation": 1
+  },
+  {
+    "id": 100,
+    "name": "霹雳电球",
+    "english_name": "Voltorb",
+    "generation": 1
+  },
+  {
+    "id": 101,
+    "name": "顽皮雷弹",
+    "english_name": "Electrode",
+    "generation": 1
+  },
+  {
+    "id": 102,
+    "name": "蛋蛋",
+    "english_name": "Exeggcute",
+    "generation": 1
+  },
+  {
+    "id": 103,
+    "name": "椰蛋树",
+    "english_name": "Exeggutor",
+    "generation": 1
+  },
+  {
+    "id": 104,
+    "name": "卡拉卡拉",
+    "english_name": "Cubone",
+    "generation": 1
+  },
+  {
+    "id": 105,
+    "name": "嘎啦嘎啦",
+    "english_name": "Marowak",
+    "generation": 1
+  },
+  {
+    "id": 106,
+    "name": "飞腿郎",
+    "english_name": "Hitmonlee",
+    "generation": 1
+  },
+  {
+    "id": 107,
+    "name": "快拳郎",
+    "english_name": "Hitmonchan",
+    "generation": 1
+  },
+  {
+    "id": 108,
+    "name": "大舌头",
+    "english_name": "Lickitung",
+    "generation": 1
+  },
+  {
+    "id": 109,
+    "name": "瓦斯弹",
+    "english_name": "Koffing",
+    "generation": 1
+  },
+  {
+    "id": 110,
+    "name": "双弹瓦斯",
+    "english_name": "Weezing",
+    "generation": 1
+  },
+  {
+    "id": 111,
+    "name": "独角犀牛",
+    "english_name": "Rhyhorn",
+    "generation": 1
+  },
+  {
+    "id": 112,
+    "name": "钻角犀兽",
+    "english_name": "Rhydon",
+    "generation": 1
+  },
+  {
+    "id": 113,
+    "name": "吉利蛋",
+    "english_name": "Chansey",
+    "generation": 1
+  },
+  {
+    "id": 114,
+    "name": "蔓藤怪",
+    "english_name": "Tangela",
+    "generation": 1
+  },
+  {
+    "id": 115,
+    "name": "袋兽",
+    "english_name": "Kangaskhan",
+    "generation": 1
+  },
+  {
+    "id": 116,
+    "name": "墨海马",
+    "english_name": "Horsea",
+    "generation": 1
+  },
+  {
+    "id": 117,
+    "name": "海刺龙",
+    "english_name": "Seadra",
+    "generation": 1
+  },
+  {
+    "id": 118,
+    "name": "角金鱼",
+    "english_name": "Goldeen",
+    "generation": 1
+  },
+  {
+    "id": 119,
+    "name": "金鱼王",
+    "english_name": "Seaking",
+    "generation": 1
+  },
+  {
+    "id": 120,
+    "name": "海星星",
+    "english_name": "Staryu",
+    "generation": 1
+  },
+  {
+    "id": 121,
+    "name": "宝石海星",
+    "english_name": "Starmie",
+    "generation": 1
+  },
+  {
+    "id": 122,
+    "name": "魔墙人偶",
+    "english_name": "Mr. Mime",
+    "generation": 1
+  },
+  {
+    "id": 123,
+    "name": "飞天螳螂",
+    "english_name": "Scyther",
+    "generation": 1
+  },
+  {
+    "id": 124,
+    "name": "迷唇姐",
+    "english_name": "Jynx",
+    "generation": 1
+  },
+  {
+    "id": 125,
+    "name": "电击兽",
+    "english_name": "Electabuzz",
+    "generation": 1
+  },
+  {
+    "id": 126,
+    "name": "鸭嘴火兽",
+    "english_name": "Magmar",
+    "generation": 1
+  },
+  {
+    "id": 127,
+    "name": "凯罗斯",
+    "english_name": "Pinsir",
+    "generation": 1
+  },
+  {
+    "id": 128,
+    "name": "肯泰罗",
+    "english_name": "Tauros",
+    "generation": 1
+  },
+  {
+    "id": 129,
+    "name": "鲤鱼王",
+    "english_name": "Magikarp",
+    "generation": 1
+  },
+  {
+    "id": 130,
+    "name": "暴鲤龙",
+    "english_name": "Gyarados",
+    "generation": 1
+  },
+  {
+    "id": 131,
+    "name": "拉普拉斯",
+    "english_name": "Lapras",
+    "generation": 1
+  },
+  {
+    "id": 132,
+    "name": "百变怪",
+    "english_name": "Ditto",
+    "generation": 1
+  },
+  {
+    "id": 133,
+    "name": "伊布",
+    "english_name": "Eevee",
+    "generation": 1
+  },
+  {
+    "id": 134,
+    "name": "水伊布",
+    "english_name": "Vaporeon",
+    "generation": 1
+  },
+  {
+    "id": 135,
+    "name": "雷伊布",
+    "english_name": "Jolteon",
+    "generation": 1
+  },
+  {
+    "id": 136,
+    "name": "火伊布",
+    "english_name": "Flareon",
+    "generation": 1
+  },
+  {
+    "id": 137,
+    "name": "多边兽",
+    "english_name": "Porygon",
+    "generation": 1
+  },
+  {
+    "id": 138,
+    "name": "菊石兽",
+    "english_name": "Omanyte",
+    "generation": 1
+  },
+  {
+    "id": 139,
+    "name": "多刺菊石兽",
+    "english_name": "Omastar",
+    "generation": 1
+  },
+  {
+    "id": 140,
+    "name": "化石盔",
+    "english_name": "Kabuto",
+    "generation": 1
+  },
+  {
+    "id": 141,
+    "name": "镰刀盔",
+    "english_name": "Kabutops",
+    "generation": 1
+  },
+  {
+    "id": 142,
+    "name": "化石翼龙",
+    "english_name": "Aerodactyl",
+    "generation": 1
+  },
+  {
+    "id": 143,
+    "name": "卡比兽",
+    "english_name": "Snorlax",
+    "generation": 1
+  },
+  {
+    "id": 144,
+    "name": "急冻鸟",
+    "english_name": "Articuno",
+    "generation": 1
+  },
+  {
+    "id": 145,
+    "name": "闪电鸟",
+    "english_name": "Zapdos",
+    "generation": 1
+  },
+  {
+    "id": 146,
+    "name": "火焰鸟",
+    "english_name": "Moltres",
+    "generation": 1
+  },
+  {
+    "id": 147,
+    "name": "迷你龙",
+    "english_name": "Dratini",
+    "generation": 1
+  },
+  {
+    "id": 148,
+    "name": "哈克龙",
+    "english_name": "Dragonair",
+    "generation": 1
+  },
+  {
+    "id": 149,
+    "name": "快龙",
+    "english_name": "Dragonite",
+    "generation": 1
+  },
+  {
+    "id": 150,
+    "name": "超梦",
+    "english_name": "Mewtwo",
+    "generation": 1
+  },
+  {
+    "id": 151,
+    "name": "梦幻",
+    "english_name": "Mew",
+    "generation": 1
+  },
+  {
+    "id": 152,
+    "name": "菊草叶",
+    "english_name": "Chikorita",
+    "generation": 2
+  },
+  {
+    "id": 153,
+    "name": "月桂叶",
+    "english_name": "Bayleef",
+    "generation": 2
+  },
+  {
+    "id": 154,
+    "name": "大竺葵",
+    "english_name": "Meganium",
+    "generation": 2
+  },
+  {
+    "id": 155,
+    "name": "火球鼠",
+    "english_name": "Cyndaquil",
+    "generation": 2
+  },
+  {
+    "id": 156,
+    "name": "火岩鼠",
+    "english_name": "Quilava",
+    "generation": 2
+  },
+  {
+    "id": 157,
+    "name": "火暴兽",
+    "english_name": "Typhlosion",
+    "generation": 2
+  },
+  {
+    "id": 158,
+    "name": "小锯鳄",
+    "english_name": "Totodile",
+    "generation": 2
+  },
+  {
+    "id": 159,
+    "name": "蓝鳄",
+    "english_name": "Croconaw",
+    "generation": 2
+  },
+  {
+    "id": 160,
+    "name": "大力鳄",
+    "english_name": "Feraligatr",
+    "generation": 2
+  },
+  {
+    "id": 161,
+    "name": "尾立",
+    "english_name": "Sentret",
+    "generation": 2
+  },
+  {
+    "id": 162,
+    "name": "大尾立",
+    "english_name": "Furret",
+    "generation": 2
+  },
+  {
+    "id": 163,
+    "name": "咕咕",
+    "english_name": "Hoothoot",
+    "generation": 2
+  },
+  {
+    "id": 164,
+    "name": "猫头夜鹰",
+    "english_name": "Noctowl",
+    "generation": 2
+  },
+  {
+    "id": 165,
+    "name": "芭瓢虫",
+    "english_name": "Ledyba",
+    "generation": 2
+  },
+  {
+    "id": 166,
+    "name": "安瓢虫",
+    "english_name": "Ledian",
+    "generation": 2
+  },
+  {
+    "id": 167,
+    "name": "圆丝蛛",
+    "english_name": "Spinarak",
+    "generation": 2
+  },
+  {
+    "id": 168,
+    "name": "阿利多斯",
+    "english_name": "Ariados",
+    "generation": 2
+  },
+  {
+    "id": 169,
+    "name": "叉字蝠",
+    "english_name": "Crobat",
+    "generation": 2
+  },
+  {
+    "id": 170,
+    "name": "灯笼鱼",
+    "english_name": "Chinchou",
+    "generation": 2
+  },
+  {
+    "id": 171,
+    "name": "电灯怪",
+    "english_name": "Lanturn",
+    "generation": 2
+  },
+  {
+    "id": 172,
+    "name": "皮丘",
+    "english_name": "Pichu",
+    "generation": 2
+  },
+  {
+    "id": 173,
+    "name": "皮宝宝",
+    "english_name": "Cleffa",
+    "generation": 2
+  },
+  {
+    "id": 174,
+    "name": "宝宝丁",
+    "english_name": "Igglybuff",
+    "generation": 2
+  },
+  {
+    "id": 175,
+    "name": "波克比",
+    "english_name": "Togepi",
+    "generation": 2
+  },
+  {
+    "id": 176,
+    "name": "波克基古",
+    "english_name": "Togetic",
+    "generation": 2
+  },
+  {
+    "id": 177,
+    "name": "天然雀",
+    "english_name": "Natu",
+    "generation": 2
+  },
+  {
+    "id": 178,
+    "name": "天然鸟",
+    "english_name": "Xatu",
+    "generation": 2
+  },
+  {
+    "id": 179,
+    "name": "咩利羊",
+    "english_name": "Mareep",
+    "generation": 2
+  },
+  {
+    "id": 180,
+    "name": "茸茸羊",
+    "english_name": "Flaaffy",
+    "generation": 2
+  },
+  {
+    "id": 181,
+    "name": "电龙",
+    "english_name": "Ampharos",
+    "generation": 2
+  },
+  {
+    "id": 182,
+    "name": "美丽花",
+    "english_name": "Bellossom",
+    "generation": 2
+  },
+  {
+    "id": 183,
+    "name": "玛力露",
+    "english_name": "Marill",
+    "generation": 2
+  },
+  {
+    "id": 184,
+    "name": "玛力露丽",
+    "english_name": "Azumarill",
+    "generation": 2
+  },
+  {
+    "id": 185,
+    "name": "树才怪",
+    "english_name": "Sudowoodo",
+    "generation": 2
+  },
+  {
+    "id": 186,
+    "name": "蚊香蛙皇",
+    "english_name": "Politoed",
+    "generation": 2
+  },
+  {
+    "id": 187,
+    "name": "毽子草",
+    "english_name": "Hoppip",
+    "generation": 2
+  },
+  {
+    "id": 188,
+    "name": "毽子花",
+    "english_name": "Skiploom",
+    "generation": 2
+  },
+  {
+    "id": 189,
+    "name": "毽子棉",
+    "english_name": "Jumpluff",
+    "generation": 2
+  },
+  {
+    "id": 190,
+    "name": "长尾怪手",
+    "english_name": "Aipom",
+    "generation": 2
+  },
+  {
+    "id": 191,
+    "name": "向日种子",
+    "english_name": "Sunkern",
+    "generation": 2
+  },
+  {
+    "id": 192,
+    "name": "向日花怪",
+    "english_name": "Sunflora",
+    "generation": 2
+  },
+  {
+    "id": 193,
+    "name": "蜻蜻蜓",
+    "english_name": "Yanma",
+    "generation": 2
+  },
+  {
+    "id": 194,
+    "name": "乌波",
+    "english_name": "Wooper",
+    "generation": 2
+  },
+  {
+    "id": 195,
+    "name": "沼王",
+    "english_name": "Quagsire",
+    "generation": 2
+  },
+  {
+    "id": 196,
+    "name": "太阳伊布",
+    "english_name": "Espeon",
+    "generation": 2
+  },
+  {
+    "id": 197,
+    "name": "月亮伊布",
+    "english_name": "Umbreon",
+    "generation": 2
+  },
+  {
+    "id": 198,
+    "name": "黑暗鸦",
+    "english_name": "Murkrow",
+    "generation": 2
+  },
+  {
+    "id": 199,
+    "name": "呆呆王",
+    "english_name": "Slowking",
+    "generation": 2
+  },
+  {
+    "id": 200,
+    "name": "梦妖",
+    "english_name": "Misdreavus",
+    "generation": 2
+  },
+  {
+    "id": 201,
+    "name": "未知图腾",
+    "english_name": "Unown",
+    "generation": 2
+  },
+  {
+    "id": 202,
+    "name": "果然翁",
+    "english_name": "Wobbuffet",
+    "generation": 2
+  },
+  {
+    "id": 203,
+    "name": "麒麟奇",
+    "english_name": "Girafarig",
+    "generation": 2
+  },
+  {
+    "id": 204,
+    "name": "榛果球",
+    "english_name": "Pineco",
+    "generation": 2
+  },
+  {
+    "id": 205,
+    "name": "佛烈托斯",
+    "english_name": "Forretress",
+    "generation": 2
+  },
+  {
+    "id": 206,
+    "name": "土龙弟弟",
+    "english_name": "Dunsparce",
+    "generation": 2
+  },
+  {
+    "id": 207,
+    "name": "天蝎",
+    "english_name": "Gligar",
+    "generation": 2
+  },
+  {
+    "id": 208,
+    "name": "大钢蛇",
+    "english_name": "Steelix",
+    "generation": 2
+  },
+  {
+    "id": 209,
+    "name": "布鲁",
+    "english_name": "Snubbull",
+    "generation": 2
+  },
+  {
+    "id": 210,
+    "name": "布鲁皇",
+    "english_name": "Granbull",
+    "generation": 2
+  },
+  {
+    "id": 211,
+    "name": "千针鱼",
+    "english_name": "Qwilfish",
+    "generation": 2
+  },
+  {
+    "id": 212,
+    "name": "巨钳螳螂",
+    "english_name": "Scizor",
+    "generation": 2
+  },
+  {
+    "id": 213,
+    "name": "壶壶",
+    "english_name": "Shuckle",
+    "generation": 2
+  },
+  {
+    "id": 214,
+    "name": "赫拉克罗斯",
+    "english_name": "Heracross",
+    "generation": 2
+  },
+  {
+    "id": 215,
+    "name": "狃拉",
+    "english_name": "Sneasel",
+    "generation": 2
+  },
+  {
+    "id": 216,
+    "name": "熊宝宝",
+    "english_name": "Teddiursa",
+    "generation": 2
+  },
+  {
+    "id": 217,
+    "name": "圈圈熊",
+    "english_name": "Ursaring",
+    "generation": 2
+  },
+  {
+    "id": 218,
+    "name": "熔岩虫",
+    "english_name": "Slugma",
+    "generation": 2
+  },
+  {
+    "id": 219,
+    "name": "熔岩蜗牛",
+    "english_name": "Magcargo",
+    "generation": 2
+  },
+  {
+    "id": 220,
+    "name": "小山猪",
+    "english_name": "Swinub",
+    "generation": 2
+  },
+  {
+    "id": 221,
+    "name": "长毛猪",
+    "english_name": "Piloswine",
+    "generation": 2
+  },
+  {
+    "id": 222,
+    "name": "太阳珊瑚",
+    "english_name": "Corsola",
+    "generation": 2
+  },
+  {
+    "id": 223,
+    "name": "铁炮鱼",
+    "english_name": "Remoraid",
+    "generation": 2
+  },
+  {
+    "id": 224,
+    "name": "章鱼桶",
+    "english_name": "Octillery",
+    "generation": 2
+  },
+  {
+    "id": 225,
+    "name": "信使鸟",
+    "english_name": "Delibird",
+    "generation": 2
+  },
+  {
+    "id": 226,
+    "name": "巨翅飞鱼",
+    "english_name": "Mantine",
+    "generation": 2
+  },
+  {
+    "id": 227,
+    "name": "盔甲鸟",
+    "english_name": "Skarmory",
+    "generation": 2
+  },
+  {
+    "id": 228,
+    "name": "戴鲁比",
+    "english_name": "Houndour",
+    "generation": 2
+  },
+  {
+    "id": 229,
+    "name": "黑鲁加",
+    "english_name": "Houndoom",
+    "generation": 2
+  },
+  {
+    "id": 230,
+    "name": "刺龙王",
+    "english_name": "Kingdra",
+    "generation": 2
+  },
+  {
+    "id": 231,
+    "name": "小小象",
+    "english_name": "Phanpy",
+    "generation": 2
+  },
+  {
+    "id": 232,
+    "name": "顿甲",
+    "english_name": "Donphan",
+    "generation": 2
+  },
+  {
+    "id": 233,
+    "name": "多边兽2型",
+    "english_name": "Porygon2",
+    "generation": 2,
+    "aliases": [
+      "多边兽２型"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "惊角鹿",
+    "english_name": "Stantler",
+    "generation": 2
+  },
+  {
+    "id": 235,
+    "name": "图图犬",
+    "english_name": "Smeargle",
+    "generation": 2
+  },
+  {
+    "id": 236,
+    "name": "无畏小子",
+    "english_name": "Tyrogue",
+    "generation": 2
+  },
+  {
+    "id": 237,
+    "name": "战舞郎",
+    "english_name": "Hitmontop",
+    "generation": 2
+  },
+  {
+    "id": 238,
+    "name": "迷唇娃",
+    "english_name": "Smoochum",
+    "generation": 2
+  },
+  {
+    "id": 239,
+    "name": "电击怪",
+    "english_name": "Elekid",
+    "generation": 2
+  },
+  {
+    "id": 240,
+    "name": "鸭嘴宝宝",
+    "english_name": "Magby",
+    "generation": 2
+  },
+  {
+    "id": 241,
+    "name": "大奶罐",
+    "english_name": "Miltank",
+    "generation": 2
+  },
+  {
+    "id": 242,
+    "name": "幸福蛋",
+    "english_name": "Blissey",
+    "generation": 2
+  },
+  {
+    "id": 243,
+    "name": "雷公",
+    "english_name": "Raikou",
+    "generation": 2
+  },
+  {
+    "id": 244,
+    "name": "炎帝",
+    "english_name": "Entei",
+    "generation": 2
+  },
+  {
+    "id": 245,
+    "name": "水君",
+    "english_name": "Suicune",
+    "generation": 2
+  },
+  {
+    "id": 246,
+    "name": "幼基拉斯",
+    "english_name": "Larvitar",
+    "generation": 2
+  },
+  {
+    "id": 247,
+    "name": "沙基拉斯",
+    "english_name": "Pupitar",
+    "generation": 2
+  },
+  {
+    "id": 248,
+    "name": "班基拉斯",
+    "english_name": "Tyranitar",
+    "generation": 2
+  },
+  {
+    "id": 249,
+    "name": "洛奇亚",
+    "english_name": "Lugia",
+    "generation": 2
+  },
+  {
+    "id": 250,
+    "name": "凤王",
+    "english_name": "Ho-Oh",
+    "generation": 2
+  },
+  {
+    "id": 251,
+    "name": "时拉比",
+    "english_name": "Celebi",
+    "generation": 2
+  },
+  {
+    "id": 252,
+    "name": "木守宫",
+    "english_name": "Treecko",
+    "generation": 3
+  },
+  {
+    "id": 253,
+    "name": "森林蜥蜴",
+    "english_name": "Grovyle",
+    "generation": 3
+  },
+  {
+    "id": 254,
+    "name": "蜥蜴王",
+    "english_name": "Sceptile",
+    "generation": 3
+  },
+  {
+    "id": 255,
+    "name": "火稚鸡",
+    "english_name": "Torchic",
+    "generation": 3
+  },
+  {
+    "id": 256,
+    "name": "力壮鸡",
+    "english_name": "Combusken",
+    "generation": 3
+  },
+  {
+    "id": 257,
+    "name": "火焰鸡",
+    "english_name": "Blaziken",
+    "generation": 3
+  },
+  {
+    "id": 258,
+    "name": "水跃鱼",
+    "english_name": "Mudkip",
+    "generation": 3
+  },
+  {
+    "id": 259,
+    "name": "沼跃鱼",
+    "english_name": "Marshtomp",
+    "generation": 3
+  },
+  {
+    "id": 260,
+    "name": "巨沼怪",
+    "english_name": "Swampert",
+    "generation": 3
+  },
+  {
+    "id": 261,
+    "name": "土狼犬",
+    "english_name": "Poochyena",
+    "generation": 3
+  },
+  {
+    "id": 262,
+    "name": "大狼犬",
+    "english_name": "Mightyena",
+    "generation": 3
+  },
+  {
+    "id": 263,
+    "name": "蛇纹熊",
+    "english_name": "Zigzagoon",
+    "generation": 3
+  },
+  {
+    "id": 264,
+    "name": "直冲熊",
+    "english_name": "Linoone",
+    "generation": 3
+  },
+  {
+    "id": 265,
+    "name": "刺尾虫",
+    "english_name": "Wurmple",
+    "generation": 3
+  },
+  {
+    "id": 266,
+    "name": "甲壳茧",
+    "english_name": "Silcoon",
+    "generation": 3
+  },
+  {
+    "id": 267,
+    "name": "狩猎凤蝶",
+    "english_name": "Beautifly",
+    "generation": 3
+  },
+  {
+    "id": 268,
+    "name": "盾甲茧",
+    "english_name": "Cascoon",
+    "generation": 3
+  },
+  {
+    "id": 269,
+    "name": "毒粉蛾",
+    "english_name": "Dustox",
+    "generation": 3
+  },
+  {
+    "id": 270,
+    "name": "莲叶童子",
+    "english_name": "Lotad",
+    "generation": 3
+  },
+  {
+    "id": 271,
+    "name": "莲帽小童",
+    "english_name": "Lombre",
+    "generation": 3
+  },
+  {
+    "id": 272,
+    "name": "乐天河童",
+    "english_name": "Ludicolo",
+    "generation": 3
+  },
+  {
+    "id": 273,
+    "name": "橡实果",
+    "english_name": "Seedot",
+    "generation": 3
+  },
+  {
+    "id": 274,
+    "name": "长鼻叶",
+    "english_name": "Nuzleaf",
+    "generation": 3
+  },
+  {
+    "id": 275,
+    "name": "狡猾天狗",
+    "english_name": "Shiftry",
+    "generation": 3
+  },
+  {
+    "id": 276,
+    "name": "傲骨燕",
+    "english_name": "Taillow",
+    "generation": 3
+  },
+  {
+    "id": 277,
+    "name": "大王燕",
+    "english_name": "Swellow",
+    "generation": 3
+  },
+  {
+    "id": 278,
+    "name": "长翅鸥",
+    "english_name": "Wingull",
+    "generation": 3
+  },
+  {
+    "id": 279,
+    "name": "大嘴鸥",
+    "english_name": "Pelipper",
+    "generation": 3
+  },
+  {
+    "id": 280,
+    "name": "拉鲁拉丝",
+    "english_name": "Ralts",
+    "generation": 3
+  },
+  {
+    "id": 281,
+    "name": "奇鲁莉安",
+    "english_name": "Kirlia",
+    "generation": 3
+  },
+  {
+    "id": 282,
+    "name": "沙奈朵",
+    "english_name": "Gardevoir",
+    "generation": 3
+  },
+  {
+    "id": 283,
+    "name": "溜溜糖球",
+    "english_name": "Surskit",
+    "generation": 3
+  },
+  {
+    "id": 284,
+    "name": "雨翅蛾",
+    "english_name": "Masquerain",
+    "generation": 3
+  },
+  {
+    "id": 285,
+    "name": "蘑蘑菇",
+    "english_name": "Shroomish",
+    "generation": 3
+  },
+  {
+    "id": 286,
+    "name": "斗笠菇",
+    "english_name": "Breloom",
+    "generation": 3
+  },
+  {
+    "id": 287,
+    "name": "懒人獭",
+    "english_name": "Slakoth",
+    "generation": 3
+  },
+  {
+    "id": 288,
+    "name": "过动猿",
+    "english_name": "Vigoroth",
+    "generation": 3
+  },
+  {
+    "id": 289,
+    "name": "请假王",
+    "english_name": "Slaking",
+    "generation": 3
+  },
+  {
+    "id": 290,
+    "name": "土居忍士",
+    "english_name": "Nincada",
+    "generation": 3
+  },
+  {
+    "id": 291,
+    "name": "铁面忍者",
+    "english_name": "Ninjask",
+    "generation": 3
+  },
+  {
+    "id": 292,
+    "name": "脱壳忍者",
+    "english_name": "Shedinja",
+    "generation": 3
+  },
+  {
+    "id": 293,
+    "name": "咕妞妞",
+    "english_name": "Whismur",
+    "generation": 3
+  },
+  {
+    "id": 294,
+    "name": "吼爆弹",
+    "english_name": "Loudred",
+    "generation": 3
+  },
+  {
+    "id": 295,
+    "name": "爆音怪",
+    "english_name": "Exploud",
+    "generation": 3
+  },
+  {
+    "id": 296,
+    "name": "幕下力士",
+    "english_name": "Makuhita",
+    "generation": 3
+  },
+  {
+    "id": 297,
+    "name": "铁掌力士",
+    "english_name": "Hariyama",
+    "generation": 3
+  },
+  {
+    "id": 298,
+    "name": "露力丽",
+    "english_name": "Azurill",
+    "generation": 3
+  },
+  {
+    "id": 299,
+    "name": "朝北鼻",
+    "english_name": "Nosepass",
+    "generation": 3
+  },
+  {
+    "id": 300,
+    "name": "向尾喵",
+    "english_name": "Skitty",
+    "generation": 3
+  },
+  {
+    "id": 301,
+    "name": "优雅猫",
+    "english_name": "Delcatty",
+    "generation": 3
+  },
+  {
+    "id": 302,
+    "name": "勾魂眼",
+    "english_name": "Sableye",
+    "generation": 3
+  },
+  {
+    "id": 303,
+    "name": "大嘴娃",
+    "english_name": "Mawile",
+    "generation": 3
+  },
+  {
+    "id": 304,
+    "name": "可可多拉",
+    "english_name": "Aron",
+    "generation": 3
+  },
+  {
+    "id": 305,
+    "name": "可多拉",
+    "english_name": "Lairon",
+    "generation": 3
+  },
+  {
+    "id": 306,
+    "name": "波士可多拉",
+    "english_name": "Aggron",
+    "generation": 3
+  },
+  {
+    "id": 307,
+    "name": "玛沙那",
+    "english_name": "Meditite",
+    "generation": 3
+  },
+  {
+    "id": 308,
+    "name": "恰雷姆",
+    "english_name": "Medicham",
+    "generation": 3
+  },
+  {
+    "id": 309,
+    "name": "落雷兽",
+    "english_name": "Electrike",
+    "generation": 3
+  },
+  {
+    "id": 310,
+    "name": "雷电兽",
+    "english_name": "Manectric",
+    "generation": 3
+  },
+  {
+    "id": 311,
+    "name": "正电拍拍",
+    "english_name": "Plusle",
+    "generation": 3
+  },
+  {
+    "id": 312,
+    "name": "负电拍拍",
+    "english_name": "Minun",
+    "generation": 3,
+    "aliases": [
+      "負电拍拍"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "电萤虫",
+    "english_name": "Volbeat",
+    "generation": 3
+  },
+  {
+    "id": 314,
+    "name": "甜甜萤",
+    "english_name": "Illumise",
+    "generation": 3
+  },
+  {
+    "id": 315,
+    "name": "毒蔷薇",
+    "english_name": "Roselia",
+    "generation": 3
+  },
+  {
+    "id": 316,
+    "name": "溶食兽",
+    "english_name": "Gulpin",
+    "generation": 3
+  },
+  {
+    "id": 317,
+    "name": "吞食兽",
+    "english_name": "Swalot",
+    "generation": 3
+  },
+  {
+    "id": 318,
+    "name": "利牙鱼",
+    "english_name": "Carvanha",
+    "generation": 3
+  },
+  {
+    "id": 319,
+    "name": "巨牙鲨",
+    "english_name": "Sharpedo",
+    "generation": 3
+  },
+  {
+    "id": 320,
+    "name": "吼吼鲸",
+    "english_name": "Wailmer",
+    "generation": 3
+  },
+  {
+    "id": 321,
+    "name": "吼鲸王",
+    "english_name": "Wailord",
+    "generation": 3
+  },
+  {
+    "id": 322,
+    "name": "呆火驼",
+    "english_name": "Numel",
+    "generation": 3
+  },
+  {
+    "id": 323,
+    "name": "喷火驼",
+    "english_name": "Camerupt",
+    "generation": 3
+  },
+  {
+    "id": 324,
+    "name": "煤炭龟",
+    "english_name": "Torkoal",
+    "generation": 3
+  },
+  {
+    "id": 325,
+    "name": "跳跳猪",
+    "english_name": "Spoink",
+    "generation": 3
+  },
+  {
+    "id": 326,
+    "name": "噗噗猪",
+    "english_name": "Grumpig",
+    "generation": 3
+  },
+  {
+    "id": 327,
+    "name": "晃晃斑",
+    "english_name": "Spinda",
+    "generation": 3
+  },
+  {
+    "id": 328,
+    "name": "大颚蚁",
+    "english_name": "Trapinch",
+    "generation": 3
+  },
+  {
+    "id": 329,
+    "name": "超音波幼虫",
+    "english_name": "Vibrava",
+    "generation": 3
+  },
+  {
+    "id": 330,
+    "name": "沙漠蜻蜓",
+    "english_name": "Flygon",
+    "generation": 3
+  },
+  {
+    "id": 331,
+    "name": "刺球仙人掌",
+    "english_name": "Cacnea",
+    "generation": 3
+  },
+  {
+    "id": 332,
+    "name": "梦歌仙人掌",
+    "english_name": "Cacturne",
+    "generation": 3
+  },
+  {
+    "id": 333,
+    "name": "青绵鸟",
+    "english_name": "Swablu",
+    "generation": 3
+  },
+  {
+    "id": 334,
+    "name": "七夕青鸟",
+    "english_name": "Altaria",
+    "generation": 3
+  },
+  {
+    "id": 335,
+    "name": "猫鼬斩",
+    "english_name": "Zangoose",
+    "generation": 3
+  },
+  {
+    "id": 336,
+    "name": "饭匙蛇",
+    "english_name": "Seviper",
+    "generation": 3
+  },
+  {
+    "id": 337,
+    "name": "月石",
+    "english_name": "Lunatone",
+    "generation": 3
+  },
+  {
+    "id": 338,
+    "name": "太阳岩",
+    "english_name": "Solrock",
+    "generation": 3
+  },
+  {
+    "id": 339,
+    "name": "泥泥鳅",
+    "english_name": "Barboach",
+    "generation": 3
+  },
+  {
+    "id": 340,
+    "name": "鲶鱼王",
+    "english_name": "Whiscash",
+    "generation": 3
+  },
+  {
+    "id": 341,
+    "name": "龙虾小兵",
+    "english_name": "Corphish",
+    "generation": 3
+  },
+  {
+    "id": 342,
+    "name": "铁螯龙虾",
+    "english_name": "Crawdaunt",
+    "generation": 3
+  },
+  {
+    "id": 343,
+    "name": "天秤偶",
+    "english_name": "Baltoy",
+    "generation": 3
+  },
+  {
+    "id": 344,
+    "name": "念力土偶",
+    "english_name": "Claydol",
+    "generation": 3
+  },
+  {
+    "id": 345,
+    "name": "触手百合",
+    "english_name": "Lileep",
+    "generation": 3
+  },
+  {
+    "id": 346,
+    "name": "摇篮百合",
+    "english_name": "Cradily",
+    "generation": 3
+  },
+  {
+    "id": 347,
+    "name": "太古羽虫",
+    "english_name": "Anorith",
+    "generation": 3
+  },
+  {
+    "id": 348,
+    "name": "太古盔甲",
+    "english_name": "Armaldo",
+    "generation": 3
+  },
+  {
+    "id": 349,
+    "name": "丑丑鱼",
+    "english_name": "Feebas",
+    "generation": 3
+  },
+  {
+    "id": 350,
+    "name": "美纳斯",
+    "english_name": "Milotic",
+    "generation": 3
+  },
+  {
+    "id": 351,
+    "name": "飘浮泡泡",
+    "english_name": "Castform",
+    "generation": 3
+  },
+  {
+    "id": 352,
+    "name": "变隐龙",
+    "english_name": "Kecleon",
+    "generation": 3
+  },
+  {
+    "id": 353,
+    "name": "怨影娃娃",
+    "english_name": "Shuppet",
+    "generation": 3
+  },
+  {
+    "id": 354,
+    "name": "诅咒娃娃",
+    "english_name": "Banette",
+    "generation": 3
+  },
+  {
+    "id": 355,
+    "name": "夜巡灵",
+    "english_name": "Duskull",
+    "generation": 3
+  },
+  {
+    "id": 356,
+    "name": "彷徨夜灵",
+    "english_name": "Dusclops",
+    "generation": 3
+  },
+  {
+    "id": 357,
+    "name": "热带龙",
+    "english_name": "Tropius",
+    "generation": 3
+  },
+  {
+    "id": 358,
+    "name": "风铃铃",
+    "english_name": "Chimecho",
+    "generation": 3
+  },
+  {
+    "id": 359,
+    "name": "阿勃梭鲁",
+    "english_name": "Absol",
+    "generation": 3
+  },
+  {
+    "id": 360,
+    "name": "小果然",
+    "english_name": "Wynaut",
+    "generation": 3
+  },
+  {
+    "id": 361,
+    "name": "雪童子",
+    "english_name": "Snorunt",
+    "generation": 3
+  },
+  {
+    "id": 362,
+    "name": "冰鬼护",
+    "english_name": "Glalie",
+    "generation": 3
+  },
+  {
+    "id": 363,
+    "name": "海豹球",
+    "english_name": "Spheal",
+    "generation": 3
+  },
+  {
+    "id": 364,
+    "name": "海魔狮",
+    "english_name": "Sealeo",
+    "generation": 3
+  },
+  {
+    "id": 365,
+    "name": "帝牙海狮",
+    "english_name": "Walrein",
+    "generation": 3
+  },
+  {
+    "id": 366,
+    "name": "珍珠贝",
+    "english_name": "Clamperl",
+    "generation": 3
+  },
+  {
+    "id": 367,
+    "name": "猎斑鱼",
+    "english_name": "Huntail",
+    "generation": 3
+  },
+  {
+    "id": 368,
+    "name": "樱花鱼",
+    "english_name": "Gorebyss",
+    "generation": 3
+  },
+  {
+    "id": 369,
+    "name": "古空棘鱼",
+    "english_name": "Relicanth",
+    "generation": 3
+  },
+  {
+    "id": 370,
+    "name": "爱心鱼",
+    "english_name": "Luvdisc",
+    "generation": 3
+  },
+  {
+    "id": 371,
+    "name": "宝贝龙",
+    "english_name": "Bagon",
+    "generation": 3
+  },
+  {
+    "id": 372,
+    "name": "甲壳龙",
+    "english_name": "Shelgon",
+    "generation": 3
+  },
+  {
+    "id": 373,
+    "name": "暴飞龙",
+    "english_name": "Salamence",
+    "generation": 3
+  },
+  {
+    "id": 374,
+    "name": "铁哑铃",
+    "english_name": "Beldum",
+    "generation": 3
+  },
+  {
+    "id": 375,
+    "name": "金属怪",
+    "english_name": "Metang",
+    "generation": 3
+  },
+  {
+    "id": 376,
+    "name": "巨金怪",
+    "english_name": "Metagross",
+    "generation": 3
+  },
+  {
+    "id": 377,
+    "name": "雷吉洛克",
+    "english_name": "Regirock",
+    "generation": 3
+  },
+  {
+    "id": 378,
+    "name": "雷吉艾斯",
+    "english_name": "Regice",
+    "generation": 3
+  },
+  {
+    "id": 379,
+    "name": "雷吉斯奇鲁",
+    "english_name": "Registeel",
+    "generation": 3
+  },
+  {
+    "id": 380,
+    "name": "拉帝亚斯",
+    "english_name": "Latias",
+    "generation": 3
+  },
+  {
+    "id": 381,
+    "name": "拉帝欧斯",
+    "english_name": "Latios",
+    "generation": 3
+  },
+  {
+    "id": 382,
+    "name": "盖欧卡",
+    "english_name": "Kyogre",
+    "generation": 3
+  },
+  {
+    "id": 383,
+    "name": "固拉多",
+    "english_name": "Groudon",
+    "generation": 3
+  },
+  {
+    "id": 384,
+    "name": "烈空坐",
+    "english_name": "Rayquaza",
+    "generation": 3
+  },
+  {
+    "id": 385,
+    "name": "基拉祈",
+    "english_name": "Jirachi",
+    "generation": 3
+  },
+  {
+    "id": 386,
+    "name": "代欧奇希斯",
+    "english_name": "Deoxys",
+    "generation": 3
+  },
+  {
+    "id": 387,
+    "name": "草苗龟",
+    "english_name": "Turtwig",
+    "generation": 4
+  },
+  {
+    "id": 388,
+    "name": "树林龟",
+    "english_name": "Grotle",
+    "generation": 4
+  },
+  {
+    "id": 389,
+    "name": "土台龟",
+    "english_name": "Torterra",
+    "generation": 4
+  },
+  {
+    "id": 390,
+    "name": "小火焰猴",
+    "english_name": "Chimchar",
+    "generation": 4
+  },
+  {
+    "id": 391,
+    "name": "猛火猴",
+    "english_name": "Monferno",
+    "generation": 4
+  },
+  {
+    "id": 392,
+    "name": "烈焰猴",
+    "english_name": "Infernape",
+    "generation": 4
+  },
+  {
+    "id": 393,
+    "name": "波加曼",
+    "english_name": "Piplup",
+    "generation": 4
+  },
+  {
+    "id": 394,
+    "name": "波皇子",
+    "english_name": "Prinplup",
+    "generation": 4
+  },
+  {
+    "id": 395,
+    "name": "帝王拿波",
+    "english_name": "Empoleon",
+    "generation": 4
+  },
+  {
+    "id": 396,
+    "name": "姆克儿",
+    "english_name": "Starly",
+    "generation": 4
+  },
+  {
+    "id": 397,
+    "name": "姆克鸟",
+    "english_name": "Staravia",
+    "generation": 4
+  },
+  {
+    "id": 398,
+    "name": "姆克鹰",
+    "english_name": "Staraptor",
+    "generation": 4
+  },
+  {
+    "id": 399,
+    "name": "大牙狸",
+    "english_name": "Bidoof",
+    "generation": 4
+  },
+  {
+    "id": 400,
+    "name": "大尾狸",
+    "english_name": "Bibarel",
+    "generation": 4
+  },
+  {
+    "id": 401,
+    "name": "圆法师",
+    "english_name": "Kricketot",
+    "generation": 4
+  },
+  {
+    "id": 402,
+    "name": "音箱蟀",
+    "english_name": "Kricketune",
+    "generation": 4
+  },
+  {
+    "id": 403,
+    "name": "小猫怪",
+    "english_name": "Shinx",
+    "generation": 4
+  },
+  {
+    "id": 404,
+    "name": "勒克猫",
+    "english_name": "Luxio",
+    "generation": 4
+  },
+  {
+    "id": 405,
+    "name": "伦琴猫",
+    "english_name": "Luxray",
+    "generation": 4
+  },
+  {
+    "id": 406,
+    "name": "含羞苞",
+    "english_name": "Budew",
+    "generation": 4
+  },
+  {
+    "id": 407,
+    "name": "罗丝雷朵",
+    "english_name": "Roserade",
+    "generation": 4
+  },
+  {
+    "id": 408,
+    "name": "头盖龙",
+    "english_name": "Cranidos",
+    "generation": 4
+  },
+  {
+    "id": 409,
+    "name": "战槌龙",
+    "english_name": "Rampardos",
+    "generation": 4
+  },
+  {
+    "id": 410,
+    "name": "盾甲龙",
+    "english_name": "Shieldon",
+    "generation": 4
+  },
+  {
+    "id": 411,
+    "name": "护城龙",
+    "english_name": "Bastiodon",
+    "generation": 4
+  },
+  {
+    "id": 412,
+    "name": "结草儿",
+    "english_name": "Burmy",
+    "generation": 4
+  },
+  {
+    "id": 413,
+    "name": "结草贵妇",
+    "english_name": "Wormadam",
+    "generation": 4
+  },
+  {
+    "id": 414,
+    "name": "绅士蛾",
+    "english_name": "Mothim",
+    "generation": 4
+  },
+  {
+    "id": 415,
+    "name": "三蜜蜂",
+    "english_name": "Combee",
+    "generation": 4
+  },
+  {
+    "id": 416,
+    "name": "蜂女王",
+    "english_name": "Vespiquen",
+    "generation": 4
+  },
+  {
+    "id": 417,
+    "name": "帕奇利兹",
+    "english_name": "Pachirisu",
+    "generation": 4
+  },
+  {
+    "id": 418,
+    "name": "泳圈鼬",
+    "english_name": "Buizel",
+    "generation": 4
+  },
+  {
+    "id": 419,
+    "name": "浮潜鼬",
+    "english_name": "Floatzel",
+    "generation": 4
+  },
+  {
+    "id": 420,
+    "name": "樱花宝",
+    "english_name": "Cherubi",
+    "generation": 4
+  },
+  {
+    "id": 421,
+    "name": "樱花儿",
+    "english_name": "Cherrim",
+    "generation": 4
+  },
+  {
+    "id": 422,
+    "name": "无壳海兔",
+    "english_name": "Shellos",
+    "generation": 4
+  },
+  {
+    "id": 423,
+    "name": "海兔兽",
+    "english_name": "Gastrodon",
+    "generation": 4
+  },
+  {
+    "id": 424,
+    "name": "双尾怪手",
+    "english_name": "Ambipom",
+    "generation": 4
+  },
+  {
+    "id": 425,
+    "name": "飘飘球",
+    "english_name": "Drifloon",
+    "generation": 4
+  },
+  {
+    "id": 426,
+    "name": "随风球",
+    "english_name": "Drifblim",
+    "generation": 4
+  },
+  {
+    "id": 427,
+    "name": "卷卷耳",
+    "english_name": "Buneary",
+    "generation": 4
+  },
+  {
+    "id": 428,
+    "name": "长耳兔",
+    "english_name": "Lopunny",
+    "generation": 4
+  },
+  {
+    "id": 429,
+    "name": "梦妖魔",
+    "english_name": "Mismagius",
+    "generation": 4
+  },
+  {
+    "id": 430,
+    "name": "乌鸦头头",
+    "english_name": "Honchkrow",
+    "generation": 4
+  },
+  {
+    "id": 431,
+    "name": "魅力喵",
+    "english_name": "Glameow",
+    "generation": 4
+  },
+  {
+    "id": 432,
+    "name": "东施喵",
+    "english_name": "Purugly",
+    "generation": 4
+  },
+  {
+    "id": 433,
+    "name": "铃铛响",
+    "english_name": "Chingling",
+    "generation": 4
+  },
+  {
+    "id": 434,
+    "name": "臭鼬噗",
+    "english_name": "Stunky",
+    "generation": 4
+  },
+  {
+    "id": 435,
+    "name": "坦克臭鼬",
+    "english_name": "Skuntank",
+    "generation": 4
+  },
+  {
+    "id": 436,
+    "name": "铜镜怪",
+    "english_name": "Bronzor",
+    "generation": 4
+  },
+  {
+    "id": 437,
+    "name": "青铜钟",
+    "english_name": "Bronzong",
+    "generation": 4
+  },
+  {
+    "id": 438,
+    "name": "盆才怪",
+    "english_name": "Bonsly",
+    "generation": 4
+  },
+  {
+    "id": 439,
+    "name": "魔尼尼",
+    "english_name": "Mime Jr.",
+    "generation": 4
+  },
+  {
+    "id": 440,
+    "name": "小福蛋",
+    "english_name": "Happiny",
+    "generation": 4
+  },
+  {
+    "id": 441,
+    "name": "聒噪鸟",
+    "english_name": "Chatot",
+    "generation": 4
+  },
+  {
+    "id": 442,
+    "name": "花岩怪",
+    "english_name": "Spiritomb",
+    "generation": 4
+  },
+  {
+    "id": 443,
+    "name": "圆陆鲨",
+    "english_name": "Gible",
+    "generation": 4
+  },
+  {
+    "id": 444,
+    "name": "尖牙陆鲨",
+    "english_name": "Gabite",
+    "generation": 4
+  },
+  {
+    "id": 445,
+    "name": "烈咬陆鲨",
+    "english_name": "Garchomp",
+    "generation": 4
+  },
+  {
+    "id": 446,
+    "name": "小卡比兽",
+    "english_name": "Munchlax",
+    "generation": 4
+  },
+  {
+    "id": 447,
+    "name": "利欧路",
+    "english_name": "Riolu",
+    "generation": 4
+  },
+  {
+    "id": 448,
+    "name": "路卡利欧",
+    "english_name": "Lucario",
+    "generation": 4
+  },
+  {
+    "id": 449,
+    "name": "沙河马",
+    "english_name": "Hippopotas",
+    "generation": 4
+  },
+  {
+    "id": 450,
+    "name": "河马兽",
+    "english_name": "Hippowdon",
+    "generation": 4
+  },
+  {
+    "id": 451,
+    "name": "钳尾蝎",
+    "english_name": "Skorupi",
+    "generation": 4
+  },
+  {
+    "id": 452,
+    "name": "龙王蝎",
+    "english_name": "Drapion",
+    "generation": 4
+  },
+  {
+    "id": 453,
+    "name": "不良蛙",
+    "english_name": "Croagunk",
+    "generation": 4
+  },
+  {
+    "id": 454,
+    "name": "毒骷蛙",
+    "english_name": "Toxicroak",
+    "generation": 4
+  },
+  {
+    "id": 455,
+    "name": "尖牙笼",
+    "english_name": "Carnivine",
+    "generation": 4
+  },
+  {
+    "id": 456,
+    "name": "荧光鱼",
+    "english_name": "Finneon",
+    "generation": 4
+  },
+  {
+    "id": 457,
+    "name": "霓虹鱼",
+    "english_name": "Lumineon",
+    "generation": 4
+  },
+  {
+    "id": 458,
+    "name": "小球飞鱼",
+    "english_name": "Mantyke",
+    "generation": 4
+  },
+  {
+    "id": 459,
+    "name": "雪笠怪",
+    "english_name": "Snover",
+    "generation": 4
+  },
+  {
+    "id": 460,
+    "name": "暴雪王",
+    "english_name": "Abomasnow",
+    "generation": 4
+  },
+  {
+    "id": 461,
+    "name": "玛狃拉",
+    "english_name": "Weavile",
+    "generation": 4
+  },
+  {
+    "id": 462,
+    "name": "自爆磁怪",
+    "english_name": "Magnezone",
+    "generation": 4
+  },
+  {
+    "id": 463,
+    "name": "大舌舔",
+    "english_name": "Lickilicky",
+    "generation": 4
+  },
+  {
+    "id": 464,
+    "name": "超甲狂犀",
+    "english_name": "Rhyperior",
+    "generation": 4
+  },
+  {
+    "id": 465,
+    "name": "巨蔓藤",
+    "english_name": "Tangrowth",
+    "generation": 4
+  },
+  {
+    "id": 466,
+    "name": "电击魔兽",
+    "english_name": "Electivire",
+    "generation": 4
+  },
+  {
+    "id": 467,
+    "name": "鸭嘴炎兽",
+    "english_name": "Magmortar",
+    "generation": 4
+  },
+  {
+    "id": 468,
+    "name": "波克基斯",
+    "english_name": "Togekiss",
+    "generation": 4
+  },
+  {
+    "id": 469,
+    "name": "远古巨蜓",
+    "english_name": "Yanmega",
+    "generation": 4
+  },
+  {
+    "id": 470,
+    "name": "叶伊布",
+    "english_name": "Leafeon",
+    "generation": 4
+  },
+  {
+    "id": 471,
+    "name": "冰伊布",
+    "english_name": "Glaceon",
+    "generation": 4
+  },
+  {
+    "id": 472,
+    "name": "天蝎王",
+    "english_name": "Gliscor",
+    "generation": 4
+  },
+  {
+    "id": 473,
+    "name": "象牙猪",
+    "english_name": "Mamoswine",
+    "generation": 4
+  },
+  {
+    "id": 474,
+    "name": "多边兽乙型",
+    "english_name": "Porygon-Z",
+    "generation": 4
+  },
+  {
+    "id": 475,
+    "name": "艾路雷朵",
+    "english_name": "Gallade",
+    "generation": 4
+  },
+  {
+    "id": 476,
+    "name": "大朝北鼻",
+    "english_name": "Probopass",
+    "generation": 4
+  },
+  {
+    "id": 477,
+    "name": "黑夜魔灵",
+    "english_name": "Dusknoir",
+    "generation": 4
+  },
+  {
+    "id": 478,
+    "name": "雪妖女",
+    "english_name": "Froslass",
+    "generation": 4
+  },
+  {
+    "id": 479,
+    "name": "洛托姆",
+    "english_name": "Rotom",
+    "generation": 4
+  },
+  {
+    "id": 480,
+    "name": "由克希",
+    "english_name": "Uxie",
+    "generation": 4
+  },
+  {
+    "id": 481,
+    "name": "艾姆利多",
+    "english_name": "Mesprit",
+    "generation": 4
+  },
+  {
+    "id": 482,
+    "name": "亚克诺姆",
+    "english_name": "Azelf",
+    "generation": 4
+  },
+  {
+    "id": 483,
+    "name": "帝牙卢卡",
+    "english_name": "Dialga",
+    "generation": 4
+  },
+  {
+    "id": 484,
+    "name": "帕路奇亚",
+    "english_name": "Palkia",
+    "generation": 4
+  },
+  {
+    "id": 485,
+    "name": "席多蓝恩",
+    "english_name": "Heatran",
+    "generation": 4
+  },
+  {
+    "id": 486,
+    "name": "雷吉奇卡斯",
+    "english_name": "Regigigas",
+    "generation": 4
+  },
+  {
+    "id": 487,
+    "name": "骑拉帝纳",
+    "english_name": "Giratina",
+    "generation": 4
+  },
+  {
+    "id": 488,
+    "name": "克雷色利亚",
+    "english_name": "Cresselia",
+    "generation": 4
+  },
+  {
+    "id": 489,
+    "name": "霏欧纳",
+    "english_name": "Phione",
+    "generation": 4
+  },
+  {
+    "id": 490,
+    "name": "玛纳霏",
+    "english_name": "Manaphy",
+    "generation": 4
+  },
+  {
+    "id": 491,
+    "name": "达克莱伊",
+    "english_name": "Darkrai",
+    "generation": 4
+  },
+  {
+    "id": 492,
+    "name": "谢米",
+    "english_name": "Shaymin",
+    "generation": 4
+  },
+  {
+    "id": 493,
+    "name": "阿尔宙斯",
+    "english_name": "Arceus",
+    "generation": 4
+  },
+  {
+    "id": 494,
+    "name": "比克提尼",
+    "english_name": "Victini",
+    "generation": 5
+  },
+  {
+    "id": 495,
+    "name": "藤藤蛇",
+    "english_name": "Snivy",
+    "generation": 5
+  },
+  {
+    "id": 496,
+    "name": "青藤蛇",
+    "english_name": "Servine",
+    "generation": 5
+  },
+  {
+    "id": 497,
+    "name": "君主蛇",
+    "english_name": "Serperior",
+    "generation": 5
+  },
+  {
+    "id": 498,
+    "name": "暖暖猪",
+    "english_name": "Tepig",
+    "generation": 5
+  },
+  {
+    "id": 499,
+    "name": "炒炒猪",
+    "english_name": "Pignite",
+    "generation": 5
+  },
+  {
+    "id": 500,
+    "name": "炎武王",
+    "english_name": "Emboar",
+    "generation": 5
+  },
+  {
+    "id": 501,
+    "name": "水水獭",
+    "english_name": "Oshawott",
+    "generation": 5
+  },
+  {
+    "id": 502,
+    "name": "双刃丸",
+    "english_name": "Dewott",
+    "generation": 5
+  },
+  {
+    "id": 503,
+    "name": "大剑鬼",
+    "english_name": "Samurott",
+    "generation": 5
+  },
+  {
+    "id": 504,
+    "name": "探探鼠",
+    "english_name": "Patrat",
+    "generation": 5
+  },
+  {
+    "id": 505,
+    "name": "步哨鼠",
+    "english_name": "Watchog",
+    "generation": 5
+  },
+  {
+    "id": 506,
+    "name": "小约克",
+    "english_name": "Lillipup",
+    "generation": 5
+  },
+  {
+    "id": 507,
+    "name": "哈约克",
+    "english_name": "Herdier",
+    "generation": 5
+  },
+  {
+    "id": 508,
+    "name": "长毛狗",
+    "english_name": "Stoutland",
+    "generation": 5
+  },
+  {
+    "id": 509,
+    "name": "扒手猫",
+    "english_name": "Purrloin",
+    "generation": 5
+  },
+  {
+    "id": 510,
+    "name": "酷豹",
+    "english_name": "Liepard",
+    "generation": 5
+  },
+  {
+    "id": 511,
+    "name": "花椰猴",
+    "english_name": "Pansage",
+    "generation": 5
+  },
+  {
+    "id": 512,
+    "name": "花椰猿",
+    "english_name": "Simisage",
+    "generation": 5
+  },
+  {
+    "id": 513,
+    "name": "爆香猴",
+    "english_name": "Pansear",
+    "generation": 5
+  },
+  {
+    "id": 514,
+    "name": "爆香猿",
+    "english_name": "Simisear",
+    "generation": 5
+  },
+  {
+    "id": 515,
+    "name": "冷水猴",
+    "english_name": "Panpour",
+    "generation": 5
+  },
+  {
+    "id": 516,
+    "name": "冷水猿",
+    "english_name": "Simipour",
+    "generation": 5
+  },
+  {
+    "id": 517,
+    "name": "食梦梦",
+    "english_name": "Munna",
+    "generation": 5
+  },
+  {
+    "id": 518,
+    "name": "梦梦蚀",
+    "english_name": "Musharna",
+    "generation": 5
+  },
+  {
+    "id": 519,
+    "name": "豆豆鸽",
+    "english_name": "Pidove",
+    "generation": 5
+  },
+  {
+    "id": 520,
+    "name": "咕咕鸽",
+    "english_name": "Tranquill",
+    "generation": 5
+  },
+  {
+    "id": 521,
+    "name": "高傲雉鸡",
+    "english_name": "Unfezant",
+    "generation": 5
+  },
+  {
+    "id": 522,
+    "name": "斑斑马",
+    "english_name": "Blitzle",
+    "generation": 5
+  },
+  {
+    "id": 523,
+    "name": "雷电斑马",
+    "english_name": "Zebstrika",
+    "generation": 5
+  },
+  {
+    "id": 524,
+    "name": "石丸子",
+    "english_name": "Roggenrola",
+    "generation": 5
+  },
+  {
+    "id": 525,
+    "name": "地幔岩",
+    "english_name": "Boldore",
+    "generation": 5
+  },
+  {
+    "id": 526,
+    "name": "庞岩怪",
+    "english_name": "Gigalith",
+    "generation": 5
+  },
+  {
+    "id": 527,
+    "name": "滚滚蝙蝠",
+    "english_name": "Woobat",
+    "generation": 5
+  },
+  {
+    "id": 528,
+    "name": "心蝙蝠",
+    "english_name": "Swoobat",
+    "generation": 5
+  },
+  {
+    "id": 529,
+    "name": "螺钉地鼠",
+    "english_name": "Drilbur",
+    "generation": 5
+  },
+  {
+    "id": 530,
+    "name": "龙头地鼠",
+    "english_name": "Excadrill",
+    "generation": 5
+  },
+  {
+    "id": 531,
+    "name": "差不多娃娃",
+    "english_name": "Audino",
+    "generation": 5
+  },
+  {
+    "id": 532,
+    "name": "搬运小匠",
+    "english_name": "Timburr",
+    "generation": 5
+  },
+  {
+    "id": 533,
+    "name": "铁骨土人",
+    "english_name": "Gurdurr",
+    "generation": 5
+  },
+  {
+    "id": 534,
+    "name": "修建老匠",
+    "english_name": "Conkeldurr",
+    "generation": 5
+  },
+  {
+    "id": 535,
+    "name": "圆蝌蚪",
+    "english_name": "Tympole",
+    "generation": 5
+  },
+  {
+    "id": 536,
+    "name": "蓝蟾蜍",
+    "english_name": "Palpitoad",
+    "generation": 5
+  },
+  {
+    "id": 537,
+    "name": "蟾蜍王",
+    "english_name": "Seismitoad",
+    "generation": 5
+  },
+  {
+    "id": 538,
+    "name": "投摔鬼",
+    "english_name": "Throh",
+    "generation": 5
+  },
+  {
+    "id": 539,
+    "name": "打击鬼",
+    "english_name": "Sawk",
+    "generation": 5
+  },
+  {
+    "id": 540,
+    "name": "虫宝包",
+    "english_name": "Sewaddle",
+    "generation": 5
+  },
+  {
+    "id": 541,
+    "name": "宝包茧",
+    "english_name": "Swadloon",
+    "generation": 5
+  },
+  {
+    "id": 542,
+    "name": "保姆虫",
+    "english_name": "Leavanny",
+    "generation": 5
+  },
+  {
+    "id": 543,
+    "name": "百足蜈蚣",
+    "english_name": "Venipede",
+    "generation": 5
+  },
+  {
+    "id": 544,
+    "name": "车轮球",
+    "english_name": "Whirlipede",
+    "generation": 5
+  },
+  {
+    "id": 545,
+    "name": "蜈蚣王",
+    "english_name": "Scolipede",
+    "generation": 5
+  },
+  {
+    "id": 546,
+    "name": "木棉球",
+    "english_name": "Cottonee",
+    "generation": 5
+  },
+  {
+    "id": 547,
+    "name": "风妖精",
+    "english_name": "Whimsicott",
+    "generation": 5
+  },
+  {
+    "id": 548,
+    "name": "百合根娃娃",
+    "english_name": "Petilil",
+    "generation": 5
+  },
+  {
+    "id": 549,
+    "name": "裙儿小姐",
+    "english_name": "Lilligant",
+    "generation": 5
+  },
+  {
+    "id": 550,
+    "name": "野蛮鲈鱼",
+    "english_name": "Basculin",
+    "generation": 5
+  },
+  {
+    "id": 551,
+    "name": "黑眼鳄",
+    "english_name": "Sandile",
+    "generation": 5
+  },
+  {
+    "id": 552,
+    "name": "混混鳄",
+    "english_name": "Krokorok",
+    "generation": 5
+  },
+  {
+    "id": 553,
+    "name": "流氓鳄",
+    "english_name": "Krookodile",
+    "generation": 5
+  },
+  {
+    "id": 554,
+    "name": "火红不倒翁",
+    "english_name": "Darumaka",
+    "generation": 5
+  },
+  {
+    "id": 555,
+    "name": "达摩狒狒",
+    "english_name": "Darmanitan",
+    "generation": 5
+  },
+  {
+    "id": 556,
+    "name": "沙铃仙人掌",
+    "english_name": "Maractus",
+    "generation": 5
+  },
+  {
+    "id": 557,
+    "name": "石居蟹",
+    "english_name": "Dwebble",
+    "generation": 5
+  },
+  {
+    "id": 558,
+    "name": "岩殿居蟹",
+    "english_name": "Crustle",
+    "generation": 5
+  },
+  {
+    "id": 559,
+    "name": "滑滑小子",
+    "english_name": "Scraggy",
+    "generation": 5
+  },
+  {
+    "id": 560,
+    "name": "头巾混混",
+    "english_name": "Scrafty",
+    "generation": 5
+  },
+  {
+    "id": 561,
+    "name": "象征鸟",
+    "english_name": "Sigilyph",
+    "generation": 5
+  },
+  {
+    "id": 562,
+    "name": "哭哭面具",
+    "english_name": "Yamask",
+    "generation": 5
+  },
+  {
+    "id": 563,
+    "name": "迭失棺",
+    "english_name": "Cofagrigus",
+    "generation": 5
+  },
+  {
+    "id": 564,
+    "name": "原盖海龟",
+    "english_name": "Tirtouga",
+    "generation": 5
+  },
+  {
+    "id": 565,
+    "name": "肋骨海龟",
+    "english_name": "Carracosta",
+    "generation": 5
+  },
+  {
+    "id": 566,
+    "name": "始祖小鸟",
+    "english_name": "Archen",
+    "generation": 5
+  },
+  {
+    "id": 567,
+    "name": "始祖大鸟",
+    "english_name": "Archeops",
+    "generation": 5
+  },
+  {
+    "id": 568,
+    "name": "破破袋",
+    "english_name": "Trubbish",
+    "generation": 5
+  },
+  {
+    "id": 569,
+    "name": "灰尘山",
+    "english_name": "Garbodor",
+    "generation": 5
+  },
+  {
+    "id": 570,
+    "name": "索罗亚",
+    "english_name": "Zorua",
+    "generation": 5
+  },
+  {
+    "id": 571,
+    "name": "索罗亚克",
+    "english_name": "Zoroark",
+    "generation": 5
+  },
+  {
+    "id": 572,
+    "name": "泡沫栗鼠",
+    "english_name": "Minccino",
+    "generation": 5
+  },
+  {
+    "id": 573,
+    "name": "奇诺栗鼠",
+    "english_name": "Cinccino",
+    "generation": 5
+  },
+  {
+    "id": 574,
+    "name": "哥德宝宝",
+    "english_name": "Gothita",
+    "generation": 5
+  },
+  {
+    "id": 575,
+    "name": "哥德小童",
+    "english_name": "Gothorita",
+    "generation": 5
+  },
+  {
+    "id": 576,
+    "name": "哥德小姐",
+    "english_name": "Gothitelle",
+    "generation": 5
+  },
+  {
+    "id": 577,
+    "name": "单卵细胞球",
+    "english_name": "Solosis",
+    "generation": 5
+  },
+  {
+    "id": 578,
+    "name": "双卵细胞球",
+    "english_name": "Duosion",
+    "generation": 5
+  },
+  {
+    "id": 579,
+    "name": "人造细胞卵",
+    "english_name": "Reuniclus",
+    "generation": 5
+  },
+  {
+    "id": 580,
+    "name": "鸭宝宝",
+    "english_name": "Ducklett",
+    "generation": 5
+  },
+  {
+    "id": 581,
+    "name": "舞天鹅",
+    "english_name": "Swanna",
+    "generation": 5
+  },
+  {
+    "id": 582,
+    "name": "迷你冰",
+    "english_name": "Vanillite",
+    "generation": 5
+  },
+  {
+    "id": 583,
+    "name": "多多冰",
+    "english_name": "Vanillish",
+    "generation": 5
+  },
+  {
+    "id": 584,
+    "name": "双倍多多冰",
+    "english_name": "Vanilluxe",
+    "generation": 5
+  },
+  {
+    "id": 585,
+    "name": "四季鹿",
+    "english_name": "Deerling",
+    "generation": 5
+  },
+  {
+    "id": 586,
+    "name": "萌芽鹿",
+    "english_name": "Sawsbuck",
+    "generation": 5
+  },
+  {
+    "id": 587,
+    "name": "电飞鼠",
+    "english_name": "Emolga",
+    "generation": 5
+  },
+  {
+    "id": 588,
+    "name": "盖盖虫",
+    "english_name": "Karrablast",
+    "generation": 5
+  },
+  {
+    "id": 589,
+    "name": "骑士蜗牛",
+    "english_name": "Escavalier",
+    "generation": 5
+  },
+  {
+    "id": 590,
+    "name": "哎呀球菇",
+    "english_name": "Foongus",
+    "generation": 5
+  },
+  {
+    "id": 591,
+    "name": "败露球菇",
+    "english_name": "Amoonguss",
+    "generation": 5
+  },
+  {
+    "id": 592,
+    "name": "轻飘飘",
+    "english_name": "Frillish",
+    "generation": 5
+  },
+  {
+    "id": 593,
+    "name": "胖嘟嘟",
+    "english_name": "Jellicent",
+    "generation": 5
+  },
+  {
+    "id": 594,
+    "name": "保姆曼波",
+    "english_name": "Alomomola",
+    "generation": 5
+  },
+  {
+    "id": 595,
+    "name": "电电虫",
+    "english_name": "Joltik",
+    "generation": 5
+  },
+  {
+    "id": 596,
+    "name": "电蜘蛛",
+    "english_name": "Galvantula",
+    "generation": 5
+  },
+  {
+    "id": 597,
+    "name": "种子铁球",
+    "english_name": "Ferroseed",
+    "generation": 5
+  },
+  {
+    "id": 598,
+    "name": "坚果哑铃",
+    "english_name": "Ferrothorn",
+    "generation": 5
+  },
+  {
+    "id": 599,
+    "name": "齿轮儿",
+    "english_name": "Klink",
+    "generation": 5
+  },
+  {
+    "id": 600,
+    "name": "齿轮组",
+    "english_name": "Klang",
+    "generation": 5
+  },
+  {
+    "id": 601,
+    "name": "齿轮怪",
+    "english_name": "Klinklang",
+    "generation": 5
+  },
+  {
+    "id": 602,
+    "name": "麻麻小鱼",
+    "english_name": "Tynamo",
+    "generation": 5
+  },
+  {
+    "id": 603,
+    "name": "麻麻鳗",
+    "english_name": "Eelektrik",
+    "generation": 5
+  },
+  {
+    "id": 604,
+    "name": "麻麻鳗鱼王",
+    "english_name": "Eelektross",
+    "generation": 5
+  },
+  {
+    "id": 605,
+    "name": "小灰怪",
+    "english_name": "Elgyem",
+    "generation": 5
+  },
+  {
+    "id": 606,
+    "name": "大宇怪",
+    "english_name": "Beheeyem",
+    "generation": 5
+  },
+  {
+    "id": 607,
+    "name": "烛光灵",
+    "english_name": "Litwick",
+    "generation": 5
+  },
+  {
+    "id": 608,
+    "name": "灯火幽灵",
+    "english_name": "Lampent",
+    "generation": 5
+  },
+  {
+    "id": 609,
+    "name": "水晶灯火灵",
+    "english_name": "Chandelure",
+    "generation": 5
+  },
+  {
+    "id": 610,
+    "name": "牙牙",
+    "english_name": "Axew",
+    "generation": 5
+  },
+  {
+    "id": 611,
+    "name": "斧牙龙",
+    "english_name": "Fraxure",
+    "generation": 5
+  },
+  {
+    "id": 612,
+    "name": "双斧战龙",
+    "english_name": "Haxorus",
+    "generation": 5
+  },
+  {
+    "id": 613,
+    "name": "喷嚏熊",
+    "english_name": "Cubchoo",
+    "generation": 5
+  },
+  {
+    "id": 614,
+    "name": "冻原熊",
+    "english_name": "Beartic",
+    "generation": 5
+  },
+  {
+    "id": 615,
+    "name": "几何雪花",
+    "english_name": "Cryogonal",
+    "generation": 5
+  },
+  {
+    "id": 616,
+    "name": "小嘴蜗",
+    "english_name": "Shelmet",
+    "generation": 5
+  },
+  {
+    "id": 617,
+    "name": "敏捷虫",
+    "english_name": "Accelgor",
+    "generation": 5
+  },
+  {
+    "id": 618,
+    "name": "泥巴鱼",
+    "english_name": "Stunfisk",
+    "generation": 5
+  },
+  {
+    "id": 619,
+    "name": "功夫鼬",
+    "english_name": "Mienfoo",
+    "generation": 5
+  },
+  {
+    "id": 620,
+    "name": "师父鼬",
+    "english_name": "Mienshao",
+    "generation": 5
+  },
+  {
+    "id": 621,
+    "name": "赤面龙",
+    "english_name": "Druddigon",
+    "generation": 5
+  },
+  {
+    "id": 622,
+    "name": "泥偶小人",
+    "english_name": "Golett",
+    "generation": 5
+  },
+  {
+    "id": 623,
+    "name": "泥偶巨人",
+    "english_name": "Golurk",
+    "generation": 5
+  },
+  {
+    "id": 624,
+    "name": "驹刀小兵",
+    "english_name": "Pawniard",
+    "generation": 5
+  },
+  {
+    "id": 625,
+    "name": "劈斩司令",
+    "english_name": "Bisharp",
+    "generation": 5
+  },
+  {
+    "id": 626,
+    "name": "爆炸头水牛",
+    "english_name": "Bouffalant",
+    "generation": 5
+  },
+  {
+    "id": 627,
+    "name": "毛头小鹰",
+    "english_name": "Rufflet",
+    "generation": 5
+  },
+  {
+    "id": 628,
+    "name": "勇士雄鹰",
+    "english_name": "Braviary",
+    "generation": 5
+  },
+  {
+    "id": 629,
+    "name": "秃鹰丫头",
+    "english_name": "Vullaby",
+    "generation": 5
+  },
+  {
+    "id": 630,
+    "name": "秃鹰娜",
+    "english_name": "Mandibuzz",
+    "generation": 5
+  },
+  {
+    "id": 631,
+    "name": "熔蚁兽",
+    "english_name": "Heatmor",
+    "generation": 5
+  },
+  {
+    "id": 632,
+    "name": "铁蚁",
+    "english_name": "Durant",
+    "generation": 5
+  },
+  {
+    "id": 633,
+    "name": "单首龙",
+    "english_name": "Deino",
+    "generation": 5
+  },
+  {
+    "id": 634,
+    "name": "双首暴龙",
+    "english_name": "Zweilous",
+    "generation": 5
+  },
+  {
+    "id": 635,
+    "name": "三首恶龙",
+    "english_name": "Hydreigon",
+    "generation": 5
+  },
+  {
+    "id": 636,
+    "name": "燃烧虫",
+    "english_name": "Larvesta",
+    "generation": 5
+  },
+  {
+    "id": 637,
+    "name": "火神蛾",
+    "english_name": "Volcarona",
+    "generation": 5
+  },
+  {
+    "id": 638,
+    "name": "勾帕路翁",
+    "english_name": "Cobalion",
+    "generation": 5
+  },
+  {
+    "id": 639,
+    "name": "代拉基翁",
+    "english_name": "Terrakion",
+    "generation": 5
+  },
+  {
+    "id": 640,
+    "name": "毕力吉翁",
+    "english_name": "Virizion",
+    "generation": 5
+  },
+  {
+    "id": 641,
+    "name": "龙卷云",
+    "english_name": "Tornadus",
+    "generation": 5
+  },
+  {
+    "id": 642,
+    "name": "雷电云",
+    "english_name": "Thundurus",
+    "generation": 5
+  },
+  {
+    "id": 643,
+    "name": "莱希拉姆",
+    "english_name": "Reshiram",
+    "generation": 5
+  },
+  {
+    "id": 644,
+    "name": "捷克罗姆",
+    "english_name": "Zekrom",
+    "generation": 5
+  },
+  {
+    "id": 645,
+    "name": "土地云",
+    "english_name": "Landorus",
+    "generation": 5
+  },
+  {
+    "id": 646,
+    "name": "酋雷姆",
+    "english_name": "Kyurem",
+    "generation": 5
+  },
+  {
+    "id": 647,
+    "name": "凯路迪欧",
+    "english_name": "Keldeo",
+    "generation": 5
+  },
+  {
+    "id": 648,
+    "name": "美洛耶塔",
+    "english_name": "Meloetta",
+    "generation": 5
+  },
+  {
+    "id": 649,
+    "name": "盖诺赛克特",
+    "english_name": "Genesect",
+    "generation": 5
+  },
+  {
+    "id": 650,
+    "name": "哈力栗",
+    "english_name": "Chespin",
+    "generation": 6
+  },
+  {
+    "id": 651,
+    "name": "胖胖哈力",
+    "english_name": "Quilladin",
+    "generation": 6
+  },
+  {
+    "id": 652,
+    "name": "布里卡隆",
+    "english_name": "Chesnaught",
+    "generation": 6
+  },
+  {
+    "id": 653,
+    "name": "火狐狸",
+    "english_name": "Fennekin",
+    "generation": 6
+  },
+  {
+    "id": 654,
+    "name": "长尾火狐",
+    "english_name": "Braixen",
+    "generation": 6
+  },
+  {
+    "id": 655,
+    "name": "妖火红狐",
+    "english_name": "Delphox",
+    "generation": 6
+  },
+  {
+    "id": 656,
+    "name": "呱呱泡蛙",
+    "english_name": "Froakie",
+    "generation": 6
+  },
+  {
+    "id": 657,
+    "name": "呱头蛙",
+    "english_name": "Frogadier",
+    "generation": 6
+  },
+  {
+    "id": 658,
+    "name": "甲贺忍蛙",
+    "english_name": "Greninja",
+    "generation": 6
+  },
+  {
+    "id": 659,
+    "name": "掘掘兔",
+    "english_name": "Bunnelby",
+    "generation": 6
+  },
+  {
+    "id": 660,
+    "name": "掘地兔",
+    "english_name": "Diggersby",
+    "generation": 6
+  },
+  {
+    "id": 661,
+    "name": "小箭雀",
+    "english_name": "Fletchling",
+    "generation": 6
+  },
+  {
+    "id": 662,
+    "name": "火箭雀",
+    "english_name": "Fletchinder",
+    "generation": 6
+  },
+  {
+    "id": 663,
+    "name": "烈箭鹰",
+    "english_name": "Talonflame",
+    "generation": 6
+  },
+  {
+    "id": 664,
+    "name": "粉蝶虫",
+    "english_name": "Scatterbug",
+    "generation": 6
+  },
+  {
+    "id": 665,
+    "name": "粉蝶蛹",
+    "english_name": "Spewpa",
+    "generation": 6
+  },
+  {
+    "id": 666,
+    "name": "彩粉蝶",
+    "english_name": "Vivillon",
+    "generation": 6
+  },
+  {
+    "id": 667,
+    "name": "小狮狮",
+    "english_name": "Litleo",
+    "generation": 6
+  },
+  {
+    "id": 668,
+    "name": "火炎狮",
+    "english_name": "Pyroar",
+    "generation": 6
+  },
+  {
+    "id": 669,
+    "name": "花蓓蓓",
+    "english_name": "Flabébé",
+    "generation": 6
+  },
+  {
+    "id": 670,
+    "name": "花叶蒂",
+    "english_name": "Floette",
+    "generation": 6
+  },
+  {
+    "id": 671,
+    "name": "花洁夫人",
+    "english_name": "Florges",
+    "generation": 6
+  },
+  {
+    "id": 672,
+    "name": "坐骑小羊",
+    "english_name": "Skiddo",
+    "generation": 6
+  },
+  {
+    "id": 673,
+    "name": "坐骑山羊",
+    "english_name": "Gogoat",
+    "generation": 6
+  },
+  {
+    "id": 674,
+    "name": "顽皮熊猫",
+    "english_name": "Pancham",
+    "generation": 6
+  },
+  {
+    "id": 675,
+    "name": "霸道熊猫",
+    "english_name": "Pangoro",
+    "generation": 6
+  },
+  {
+    "id": 676,
+    "name": "多丽米亚",
+    "english_name": "Furfrou",
+    "generation": 6
+  },
+  {
+    "id": 677,
+    "name": "妙喵",
+    "english_name": "Espurr",
+    "generation": 6
+  },
+  {
+    "id": 678,
+    "name": "超能妙喵",
+    "english_name": "Meowstic",
+    "generation": 6
+  },
+  {
+    "id": 679,
+    "name": "独剑鞘",
+    "english_name": "Honedge",
+    "generation": 6
+  },
+  {
+    "id": 680,
+    "name": "双剑鞘",
+    "english_name": "Doublade",
+    "generation": 6
+  },
+  {
+    "id": 681,
+    "name": "坚盾剑怪",
+    "english_name": "Aegislash",
+    "generation": 6
+  },
+  {
+    "id": 682,
+    "name": "粉香香",
+    "english_name": "Spritzee",
+    "generation": 6
+  },
+  {
+    "id": 683,
+    "name": "芳香精",
+    "english_name": "Aromatisse",
+    "generation": 6
+  },
+  {
+    "id": 684,
+    "name": "绵绵泡芙",
+    "english_name": "Swirlix",
+    "generation": 6
+  },
+  {
+    "id": 685,
+    "name": "胖甜妮",
+    "english_name": "Slurpuff",
+    "generation": 6
+  },
+  {
+    "id": 686,
+    "name": "好啦鱿",
+    "english_name": "Inkay",
+    "generation": 6
+  },
+  {
+    "id": 687,
+    "name": "乌贼王",
+    "english_name": "Malamar",
+    "generation": 6
+  },
+  {
+    "id": 688,
+    "name": "龟脚脚",
+    "english_name": "Binacle",
+    "generation": 6
+  },
+  {
+    "id": 689,
+    "name": "龟足巨铠",
+    "english_name": "Barbaracle",
+    "generation": 6
+  },
+  {
+    "id": 690,
+    "name": "垃垃藻",
+    "english_name": "Skrelp",
+    "generation": 6
+  },
+  {
+    "id": 691,
+    "name": "毒藻龙",
+    "english_name": "Dragalge",
+    "generation": 6
+  },
+  {
+    "id": 692,
+    "name": "铁臂枪虾",
+    "english_name": "Clauncher",
+    "generation": 6
+  },
+  {
+    "id": 693,
+    "name": "钢炮臂虾",
+    "english_name": "Clawitzer",
+    "generation": 6
+  },
+  {
+    "id": 694,
+    "name": "伞电蜥",
+    "english_name": "Helioptile",
+    "generation": 6
+  },
+  {
+    "id": 695,
+    "name": "光电伞蜥",
+    "english_name": "Heliolisk",
+    "generation": 6
+  },
+  {
+    "id": 696,
+    "name": "宝宝暴龙",
+    "english_name": "Tyrunt",
+    "generation": 6
+  },
+  {
+    "id": 697,
+    "name": "怪颚龙",
+    "english_name": "Tyrantrum",
+    "generation": 6
+  },
+  {
+    "id": 698,
+    "name": "冰雪龙",
+    "english_name": "Amaura",
+    "generation": 6
+  },
+  {
+    "id": 699,
+    "name": "冰雪巨龙",
+    "english_name": "Aurorus",
+    "generation": 6
+  },
+  {
+    "id": 700,
+    "name": "仙子伊布",
+    "english_name": "Sylveon",
+    "generation": 6
+  },
+  {
+    "id": 701,
+    "name": "摔角鹰人",
+    "english_name": "Hawlucha",
+    "generation": 6
+  },
+  {
+    "id": 702,
+    "name": "咚咚鼠",
+    "english_name": "Dedenne",
+    "generation": 6
+  },
+  {
+    "id": 703,
+    "name": "小碎钻",
+    "english_name": "Carbink",
+    "generation": 6
+  },
+  {
+    "id": 704,
+    "name": "黏黏宝",
+    "english_name": "Goomy",
+    "generation": 6
+  },
+  {
+    "id": 705,
+    "name": "黏美儿",
+    "english_name": "Sliggoo",
+    "generation": 6
+  },
+  {
+    "id": 706,
+    "name": "黏美龙",
+    "english_name": "Goodra",
+    "generation": 6
+  },
+  {
+    "id": 707,
+    "name": "钥圈儿",
+    "english_name": "Klefki",
+    "generation": 6
+  },
+  {
+    "id": 708,
+    "name": "小木灵",
+    "english_name": "Phantump",
+    "generation": 6
+  },
+  {
+    "id": 709,
+    "name": "朽木妖",
+    "english_name": "Trevenant",
+    "generation": 6
+  },
+  {
+    "id": 710,
+    "name": "南瓜精",
+    "english_name": "Pumpkaboo",
+    "generation": 6
+  },
+  {
+    "id": 711,
+    "name": "南瓜怪人",
+    "english_name": "Gourgeist",
+    "generation": 6
+  },
+  {
+    "id": 712,
+    "name": "冰宝",
+    "english_name": "Bergmite",
+    "generation": 6
+  },
+  {
+    "id": 713,
+    "name": "冰岩怪",
+    "english_name": "Avalugg",
+    "generation": 6
+  },
+  {
+    "id": 714,
+    "name": "嗡蝠",
+    "english_name": "Noibat",
+    "generation": 6
+  },
+  {
+    "id": 715,
+    "name": "音波龙",
+    "english_name": "Noivern",
+    "generation": 6
+  },
+  {
+    "id": 716,
+    "name": "哲尔尼亚斯",
+    "english_name": "Xerneas",
+    "generation": 6
+  },
+  {
+    "id": 717,
+    "name": "伊裴尔塔尔",
+    "english_name": "Yveltal",
+    "generation": 6
+  },
+  {
+    "id": 718,
+    "name": "基格尔德",
+    "english_name": "Zygarde",
+    "generation": 6
+  },
+  {
+    "id": 719,
+    "name": "蒂安希",
+    "english_name": "Diancie",
+    "generation": 6
+  },
+  {
+    "id": 720,
+    "name": "胡帕",
+    "english_name": "Hoopa",
+    "generation": 6
+  },
+  {
+    "id": 721,
+    "name": "波尔凯尼恩",
+    "english_name": "Volcanion",
+    "generation": 6
+  },
+  {
+    "id": 722,
+    "name": "木木枭",
+    "english_name": "Rowlet",
+    "generation": 7
+  },
+  {
+    "id": 723,
+    "name": "投羽枭",
+    "english_name": "Dartrix",
+    "generation": 7
+  },
+  {
+    "id": 724,
+    "name": "狙射树枭",
+    "english_name": "Decidueye",
+    "generation": 7
+  },
+  {
+    "id": 725,
+    "name": "火斑喵",
+    "english_name": "Litten",
+    "generation": 7
+  },
+  {
+    "id": 726,
+    "name": "炎热喵",
+    "english_name": "Torracat",
+    "generation": 7
+  },
+  {
+    "id": 727,
+    "name": "炽焰咆哮虎",
+    "english_name": "Incineroar",
+    "generation": 7
+  },
+  {
+    "id": 728,
+    "name": "球球海狮",
+    "english_name": "Popplio",
+    "generation": 7
+  },
+  {
+    "id": 729,
+    "name": "花漾海狮",
+    "english_name": "Brionne",
+    "generation": 7
+  },
+  {
+    "id": 730,
+    "name": "西狮海壬",
+    "english_name": "Primarina",
+    "generation": 7
+  },
+  {
+    "id": 731,
+    "name": "小笃儿",
+    "english_name": "Pikipek",
+    "generation": 7
+  },
+  {
+    "id": 732,
+    "name": "喇叭啄鸟",
+    "english_name": "Trumbeak",
+    "generation": 7
+  },
+  {
+    "id": 733,
+    "name": "铳嘴大鸟",
+    "english_name": "Toucannon",
+    "generation": 7
+  },
+  {
+    "id": 734,
+    "name": "猫鼬少",
+    "english_name": "Yungoos",
+    "generation": 7
+  },
+  {
+    "id": 735,
+    "name": "猫鼬探长",
+    "english_name": "Gumshoos",
+    "generation": 7
+  },
+  {
+    "id": 736,
+    "name": "强颚鸡母虫",
+    "english_name": "Grubbin",
+    "generation": 7
+  },
+  {
+    "id": 737,
+    "name": "虫电宝",
+    "english_name": "Charjabug",
+    "generation": 7
+  },
+  {
+    "id": 738,
+    "name": "锹农炮虫",
+    "english_name": "Vikavolt",
+    "generation": 7
+  },
+  {
+    "id": 739,
+    "name": "好胜蟹",
+    "english_name": "Crabrawler",
+    "generation": 7
+  },
+  {
+    "id": 740,
+    "name": "好胜毛蟹",
+    "english_name": "Crabominable",
+    "generation": 7
+  },
+  {
+    "id": 741,
+    "name": "花舞鸟",
+    "english_name": "Oricorio",
+    "generation": 7
+  },
+  {
+    "id": 742,
+    "name": "萌虻",
+    "english_name": "Cutiefly",
+    "generation": 7
+  },
+  {
+    "id": 743,
+    "name": "蝶结萌虻",
+    "english_name": "Ribombee",
+    "generation": 7
+  },
+  {
+    "id": 744,
+    "name": "岩狗狗",
+    "english_name": "Rockruff",
+    "generation": 7
+  },
+  {
+    "id": 745,
+    "name": "鬃岩狼人",
+    "english_name": "Lycanroc",
+    "generation": 7
+  },
+  {
+    "id": 746,
+    "name": "弱丁鱼",
+    "english_name": "Wishiwashi",
+    "generation": 7
+  },
+  {
+    "id": 747,
+    "name": "好坏星",
+    "english_name": "Mareanie",
+    "generation": 7
+  },
+  {
+    "id": 748,
+    "name": "超坏星",
+    "english_name": "Toxapex",
+    "generation": 7
+  },
+  {
+    "id": 749,
+    "name": "泥驴仔",
+    "english_name": "Mudbray",
+    "generation": 7
+  },
+  {
+    "id": 750,
+    "name": "重泥挽马",
+    "english_name": "Mudsdale",
+    "generation": 7
+  },
+  {
+    "id": 751,
+    "name": "滴蛛",
+    "english_name": "Dewpider",
+    "generation": 7
+  },
+  {
+    "id": 752,
+    "name": "滴蛛霸",
+    "english_name": "Araquanid",
+    "generation": 7
+  },
+  {
+    "id": 753,
+    "name": "伪螳草",
+    "english_name": "Fomantis",
+    "generation": 7
+  },
+  {
+    "id": 754,
+    "name": "兰螳花",
+    "english_name": "Lurantis",
+    "generation": 7
+  },
+  {
+    "id": 755,
+    "name": "睡睡菇",
+    "english_name": "Morelull",
+    "generation": 7
+  },
+  {
+    "id": 756,
+    "name": "灯罩夜菇",
+    "english_name": "Shiinotic",
+    "generation": 7
+  },
+  {
+    "id": 757,
+    "name": "夜盗火蜥",
+    "english_name": "Salandit",
+    "generation": 7
+  },
+  {
+    "id": 758,
+    "name": "焰后蜥",
+    "english_name": "Salazzle",
+    "generation": 7
+  },
+  {
+    "id": 759,
+    "name": "童偶熊",
+    "english_name": "Stufful",
+    "generation": 7
+  },
+  {
+    "id": 760,
+    "name": "穿着熊",
+    "english_name": "Bewear",
+    "generation": 7
+  },
+  {
+    "id": 761,
+    "name": "甜竹竹",
+    "english_name": "Bounsweet",
+    "generation": 7
+  },
+  {
+    "id": 762,
+    "name": "甜舞妮",
+    "english_name": "Steenee",
+    "generation": 7
+  },
+  {
+    "id": 763,
+    "name": "甜冷美后",
+    "english_name": "Tsareena",
+    "generation": 7
+  },
+  {
+    "id": 764,
+    "name": "花疗环环",
+    "english_name": "Comfey",
+    "generation": 7
+  },
+  {
+    "id": 765,
+    "name": "智挥猩",
+    "english_name": "Oranguru",
+    "generation": 7
+  },
+  {
+    "id": 766,
+    "name": "投掷猴",
+    "english_name": "Passimian",
+    "generation": 7
+  },
+  {
+    "id": 767,
+    "name": "胆小虫",
+    "english_name": "Wimpod",
+    "generation": 7
+  },
+  {
+    "id": 768,
+    "name": "具甲武者",
+    "english_name": "Golisopod",
+    "generation": 7
+  },
+  {
+    "id": 769,
+    "name": "沙丘娃",
+    "english_name": "Sandygast",
+    "generation": 7
+  },
+  {
+    "id": 770,
+    "name": "噬沙堡爷",
+    "english_name": "Palossand",
+    "generation": 7
+  },
+  {
+    "id": 771,
+    "name": "拳海参",
+    "english_name": "Pyukumuku",
+    "generation": 7
+  },
+  {
+    "id": 772,
+    "name": "属性：空",
+    "english_name": "Type: Null",
+    "generation": 7
+  },
+  {
+    "id": 773,
+    "name": "银伴战兽",
+    "english_name": "Silvally",
+    "generation": 7
+  },
+  {
+    "id": 774,
+    "name": "小陨星",
+    "english_name": "Minior",
+    "generation": 7
+  },
+  {
+    "id": 775,
+    "name": "树枕尾熊",
+    "english_name": "Komala",
+    "generation": 7
+  },
+  {
+    "id": 776,
+    "name": "爆焰龟兽",
+    "english_name": "Turtonator",
+    "generation": 7
+  },
+  {
+    "id": 777,
+    "name": "托戈德玛尔",
+    "english_name": "Togedemaru",
+    "generation": 7
+  },
+  {
+    "id": 778,
+    "name": "谜拟丘",
+    "english_name": "Mimikyu",
+    "generation": 7
+  },
+  {
+    "id": 779,
+    "name": "磨牙彩皮鱼",
+    "english_name": "Bruxish",
+    "generation": 7
+  },
+  {
+    "id": 780,
+    "name": "老翁龙",
+    "english_name": "Drampa",
+    "generation": 7
+  },
+  {
+    "id": 781,
+    "name": "破破舵轮",
+    "english_name": "Dhelmise",
+    "generation": 7
+  },
+  {
+    "id": 782,
+    "name": "心鳞宝",
+    "english_name": "Jangmo-o",
+    "generation": 7
+  },
+  {
+    "id": 783,
+    "name": "鳞甲龙",
+    "english_name": "Hakamo-o",
+    "generation": 7
+  },
+  {
+    "id": 784,
+    "name": "杖尾鳞甲龙",
+    "english_name": "Kommo-o",
+    "generation": 7
+  },
+  {
+    "id": 785,
+    "name": "卡璞・鸣鸣",
+    "english_name": "Tapu Koko",
+    "generation": 7
+  },
+  {
+    "id": 786,
+    "name": "卡璞・蝶蝶",
+    "english_name": "Tapu Lele",
+    "generation": 7
+  },
+  {
+    "id": 787,
+    "name": "卡璞・哞哞",
+    "english_name": "Tapu Bulu",
+    "generation": 7
+  },
+  {
+    "id": 788,
+    "name": "卡璞・鳍鳍",
+    "english_name": "Tapu Fini",
+    "generation": 7
+  },
+  {
+    "id": 789,
+    "name": "科斯莫古",
+    "english_name": "Cosmog",
+    "generation": 7
+  },
+  {
+    "id": 790,
+    "name": "科斯莫姆",
+    "english_name": "Cosmoem",
+    "generation": 7
+  },
+  {
+    "id": 791,
+    "name": "索尔迦雷欧",
+    "english_name": "Solgaleo",
+    "generation": 7
+  },
+  {
+    "id": 792,
+    "name": "露奈雅拉",
+    "english_name": "Lunala",
+    "generation": 7
+  },
+  {
+    "id": 793,
+    "name": "虚吾伊德",
+    "english_name": "Nihilego",
+    "generation": 7
+  },
+  {
+    "id": 794,
+    "name": "爆肌蚊",
+    "english_name": "Buzzwole",
+    "generation": 7
+  },
+  {
+    "id": 795,
+    "name": "费洛美螂",
+    "english_name": "Pheromosa",
+    "generation": 7
+  },
+  {
+    "id": 796,
+    "name": "电束木",
+    "english_name": "Xurkitree",
+    "generation": 7
+  },
+  {
+    "id": 797,
+    "name": "铁火辉夜",
+    "english_name": "Celesteela",
+    "generation": 7
+  },
+  {
+    "id": 798,
+    "name": "纸御剑",
+    "english_name": "Kartana",
+    "generation": 7
+  },
+  {
+    "id": 799,
+    "name": "恶食大王",
+    "english_name": "Guzzlord",
+    "generation": 7
+  },
+  {
+    "id": 800,
+    "name": "奈克洛兹玛",
+    "english_name": "Necrozma",
+    "generation": 7
+  },
+  {
+    "id": 801,
+    "name": "玛机雅娜",
+    "english_name": "Magearna",
+    "generation": 7
+  },
+  {
+    "id": 802,
+    "name": "玛夏多",
+    "english_name": "Marshadow",
+    "generation": 7
+  },
+  {
+    "id": 803,
+    "name": "毒贝比",
+    "english_name": "Poipole",
+    "generation": 7
+  },
+  {
+    "id": 804,
+    "name": "四颚针龙",
+    "english_name": "Naganadel",
+    "generation": 7
+  },
+  {
+    "id": 805,
+    "name": "垒磊石",
+    "english_name": "Stakataka",
+    "generation": 7
+  },
+  {
+    "id": 806,
+    "name": "砰头小丑",
+    "english_name": "Blacephalon",
+    "generation": 7
+  },
+  {
+    "id": 807,
+    "name": "捷拉奥拉",
+    "english_name": "Zeraora",
+    "generation": 7
+  },
+  {
+    "id": 808,
+    "name": "美录坦",
+    "english_name": "Meltan",
+    "generation": 7
+  },
+  {
+    "id": 809,
+    "name": "美录梅塔",
+    "english_name": "Melmetal",
+    "generation": 7
+  },
+  {
+    "id": 810,
+    "name": "敲音猴",
+    "english_name": "Grookey",
+    "generation": 8
+  },
+  {
+    "id": 811,
+    "name": "啪咚猴",
+    "english_name": "Thwackey",
+    "generation": 8
+  },
+  {
+    "id": 812,
+    "name": "轰擂金刚猩",
+    "english_name": "Rillaboom",
+    "generation": 8
+  },
+  {
+    "id": 813,
+    "name": "炎兔儿",
+    "english_name": "Scorbunny",
+    "generation": 8
+  },
+  {
+    "id": 814,
+    "name": "腾蹴小将",
+    "english_name": "Raboot",
+    "generation": 8
+  },
+  {
+    "id": 815,
+    "name": "闪焰王牌",
+    "english_name": "Cinderace",
+    "generation": 8
+  },
+  {
+    "id": 816,
+    "name": "泪眼蜥",
+    "english_name": "Sobble",
+    "generation": 8
+  },
+  {
+    "id": 817,
+    "name": "变涩蜥",
+    "english_name": "Drizzile",
+    "generation": 8
+  },
+  {
+    "id": 818,
+    "name": "千面避役",
+    "english_name": "Inteleon",
+    "generation": 8
+  },
+  {
+    "id": 819,
+    "name": "贪心栗鼠",
+    "english_name": "Skwovet",
+    "generation": 8
+  },
+  {
+    "id": 820,
+    "name": "藏饱栗鼠",
+    "english_name": "Greedent",
+    "generation": 8
+  },
+  {
+    "id": 821,
+    "name": "稚山雀",
+    "english_name": "Rookidee",
+    "generation": 8
+  },
+  {
+    "id": 822,
+    "name": "蓝鸦",
+    "english_name": "Corvisquire",
+    "generation": 8
+  },
+  {
+    "id": 823,
+    "name": "钢铠鸦",
+    "english_name": "Corviknight",
+    "generation": 8
+  },
+  {
+    "id": 824,
+    "name": "索侦虫",
+    "english_name": "Blipbug",
+    "generation": 8
+  },
+  {
+    "id": 825,
+    "name": "天罩虫",
+    "english_name": "Dottler",
+    "generation": 8
+  },
+  {
+    "id": 826,
+    "name": "以欧路普",
+    "english_name": "Orbeetle",
+    "generation": 8
+  },
+  {
+    "id": 827,
+    "name": "狡小狐",
+    "english_name": "Nickit",
+    "generation": 8
+  },
+  {
+    "id": 828,
+    "name": "猾大狐",
+    "english_name": "Thievul",
+    "generation": 8
+  },
+  {
+    "id": 829,
+    "name": "幼棉棉",
+    "english_name": "Gossifleur",
+    "generation": 8
+  },
+  {
+    "id": 830,
+    "name": "白蓬蓬",
+    "english_name": "Eldegoss",
+    "generation": 8
+  },
+  {
+    "id": 831,
+    "name": "毛辫羊",
+    "english_name": "Wooloo",
+    "generation": 8
+  },
+  {
+    "id": 832,
+    "name": "毛毛角羊",
+    "english_name": "Dubwool",
+    "generation": 8
+  },
+  {
+    "id": 833,
+    "name": "咬咬龟",
+    "english_name": "Chewtle",
+    "generation": 8
+  },
+  {
+    "id": 834,
+    "name": "暴噬龟",
+    "english_name": "Drednaw",
+    "generation": 8
+  },
+  {
+    "id": 835,
+    "name": "来电汪",
+    "english_name": "Yamper",
+    "generation": 8
+  },
+  {
+    "id": 836,
+    "name": "逐电犬",
+    "english_name": "Boltund",
+    "generation": 8
+  },
+  {
+    "id": 837,
+    "name": "小炭仔",
+    "english_name": "Rolycoly",
+    "generation": 8
+  },
+  {
+    "id": 838,
+    "name": "大炭车",
+    "english_name": "Carkol",
+    "generation": 8
+  },
+  {
+    "id": 839,
+    "name": "巨炭山",
+    "english_name": "Coalossal",
+    "generation": 8
+  },
+  {
+    "id": 840,
+    "name": "啃果虫",
+    "english_name": "Applin",
+    "generation": 8
+  },
+  {
+    "id": 841,
+    "name": "苹裹龙",
+    "english_name": "Flapple",
+    "generation": 8
+  },
+  {
+    "id": 842,
+    "name": "丰蜜龙",
+    "english_name": "Appletun",
+    "generation": 8
+  },
+  {
+    "id": 843,
+    "name": "沙包蛇",
+    "english_name": "Silicobra",
+    "generation": 8
+  },
+  {
+    "id": 844,
+    "name": "沙螺蟒",
+    "english_name": "Sandaconda",
+    "generation": 8
+  },
+  {
+    "id": 845,
+    "name": "古月鸟",
+    "english_name": "Cramorant",
+    "generation": 8
+  },
+  {
+    "id": 846,
+    "name": "刺梭鱼",
+    "english_name": "Arrokuda",
+    "generation": 8
+  },
+  {
+    "id": 847,
+    "name": "戽斗尖梭",
+    "english_name": "Barraskewda",
+    "generation": 8
+  },
+  {
+    "id": 848,
+    "name": "电音婴",
+    "english_name": "Toxel",
+    "generation": 8
+  },
+  {
+    "id": 849,
+    "name": "颤弦蝾螈",
+    "english_name": "Toxtricity",
+    "generation": 8
+  },
+  {
+    "id": 850,
+    "name": "烧火蚣",
+    "english_name": "Sizzlipede",
+    "generation": 8
+  },
+  {
+    "id": 851,
+    "name": "焚焰蚣",
+    "english_name": "Centiskorch",
+    "generation": 8
+  },
+  {
+    "id": 852,
+    "name": "拳拳蛸",
+    "english_name": "Clobbopus",
+    "generation": 8
+  },
+  {
+    "id": 853,
+    "name": "八爪武师",
+    "english_name": "Grapploct",
+    "generation": 8
+  },
+  {
+    "id": 854,
+    "name": "来悲茶",
+    "english_name": "Sinistea",
+    "generation": 8
+  },
+  {
+    "id": 855,
+    "name": "怖思壶",
+    "english_name": "Polteageist",
+    "generation": 8
+  },
+  {
+    "id": 856,
+    "name": "迷布莉姆",
+    "english_name": "Hatenna",
+    "generation": 8
+  },
+  {
+    "id": 857,
+    "name": "提布莉姆",
+    "english_name": "Hattrem",
+    "generation": 8
+  },
+  {
+    "id": 858,
+    "name": "布莉姆温",
+    "english_name": "Hatterene",
+    "generation": 8
+  },
+  {
+    "id": 859,
+    "name": "捣蛋小妖",
+    "english_name": "Impidimp",
+    "generation": 8
+  },
+  {
+    "id": 860,
+    "name": "诈唬魔",
+    "english_name": "Morgrem",
+    "generation": 8
+  },
+  {
+    "id": 861,
+    "name": "长毛巨魔",
+    "english_name": "Grimmsnarl",
+    "generation": 8
+  },
+  {
+    "id": 862,
+    "name": "堵拦熊",
+    "english_name": "Obstagoon",
+    "generation": 8
+  },
+  {
+    "id": 863,
+    "name": "喵头目",
+    "english_name": "Perrserker",
+    "generation": 8
+  },
+  {
+    "id": 864,
+    "name": "魔灵珊瑚",
+    "english_name": "Cursola",
+    "generation": 8
+  },
+  {
+    "id": 865,
+    "name": "葱游兵",
+    "english_name": "Sirfetch’d",
+    "generation": 8
+  },
+  {
+    "id": 866,
+    "name": "踏冰人偶",
+    "english_name": "Mr. Rime",
+    "generation": 8
+  },
+  {
+    "id": 867,
+    "name": "迭失板",
+    "english_name": "Runerigus",
+    "generation": 8
+  },
+  {
+    "id": 868,
+    "name": "小仙奶",
+    "english_name": "Milcery",
+    "generation": 8
+  },
+  {
+    "id": 869,
+    "name": "霜奶仙",
+    "english_name": "Alcremie",
+    "generation": 8
+  },
+  {
+    "id": 870,
+    "name": "列阵兵",
+    "english_name": "Falinks",
+    "generation": 8
+  },
+  {
+    "id": 871,
+    "name": "啪嚓海胆",
+    "english_name": "Pincurchin",
+    "generation": 8
+  },
+  {
+    "id": 872,
+    "name": "雪吞虫",
+    "english_name": "Snom",
+    "generation": 8
+  },
+  {
+    "id": 873,
+    "name": "雪绒蛾",
+    "english_name": "Frosmoth",
+    "generation": 8
+  },
+  {
+    "id": 874,
+    "name": "巨石丁",
+    "english_name": "Stonjourner",
+    "generation": 8
+  },
+  {
+    "id": 875,
+    "name": "冰砌鹅",
+    "english_name": "Eiscue",
+    "generation": 8
+  },
+  {
+    "id": 876,
+    "name": "爱管侍",
+    "english_name": "Indeedee",
+    "generation": 8
+  },
+  {
+    "id": 877,
+    "name": "莫鲁贝可",
+    "english_name": "Morpeko",
+    "generation": 8
+  },
+  {
+    "id": 878,
+    "name": "铜象",
+    "english_name": "Cufant",
+    "generation": 8
+  },
+  {
+    "id": 879,
+    "name": "大王铜象",
+    "english_name": "Copperajah",
+    "generation": 8
+  },
+  {
+    "id": 880,
+    "name": "雷鸟龙",
+    "english_name": "Dracozolt",
+    "generation": 8
+  },
+  {
+    "id": 881,
+    "name": "雷鸟海兽",
+    "english_name": "Arctozolt",
+    "generation": 8
+  },
+  {
+    "id": 882,
+    "name": "鳃鱼龙",
+    "english_name": "Dracovish",
+    "generation": 8
+  },
+  {
+    "id": 883,
+    "name": "鳃鱼海兽",
+    "english_name": "Arctovish",
+    "generation": 8
+  },
+  {
+    "id": 884,
+    "name": "铝钢龙",
+    "english_name": "Duraludon",
+    "generation": 8
+  },
+  {
+    "id": 885,
+    "name": "多龙梅西亚",
+    "english_name": "Dreepy",
+    "generation": 8
+  },
+  {
+    "id": 886,
+    "name": "多龙奇",
+    "english_name": "Drakloak",
+    "generation": 8
+  },
+  {
+    "id": 887,
+    "name": "多龙巴鲁托",
+    "english_name": "Dragapult",
+    "generation": 8
+  },
+  {
+    "id": 888,
+    "name": "苍响",
+    "english_name": "Zacian",
+    "generation": 8
+  },
+  {
+    "id": 889,
+    "name": "藏玛然特",
+    "english_name": "Zamazenta",
+    "generation": 8
+  },
+  {
+    "id": 890,
+    "name": "无极汰那",
+    "english_name": "Eternatus",
+    "generation": 8
+  },
+  {
+    "id": 891,
+    "name": "熊徒弟",
+    "english_name": "Kubfu",
+    "generation": 8
+  },
+  {
+    "id": 892,
+    "name": "武道熊师",
+    "english_name": "Urshifu",
+    "generation": 8
+  },
+  {
+    "id": 893,
+    "name": "萨戮德",
+    "english_name": "Zarude",
+    "generation": 8
+  },
+  {
+    "id": 894,
+    "name": "雷吉艾勒奇",
+    "english_name": "Regieleki",
+    "generation": 8
+  },
+  {
+    "id": 895,
+    "name": "雷吉铎拉戈",
+    "english_name": "Regidrago",
+    "generation": 8
+  },
+  {
+    "id": 896,
+    "name": "雪暴马",
+    "english_name": "Glastrier",
+    "generation": 8
+  },
+  {
+    "id": 897,
+    "name": "灵幽马",
+    "english_name": "Spectrier",
+    "generation": 8
+  },
+  {
+    "id": 898,
+    "name": "蕾冠王",
+    "english_name": "Calyrex",
+    "generation": 8
+  },
+  {
+    "id": 899,
+    "name": "诡角鹿",
+    "english_name": "Wyrdeer",
+    "generation": 8
+  },
+  {
+    "id": 900,
+    "name": "劈斧螳螂",
+    "english_name": "Kleavor",
+    "generation": 8
+  },
+  {
+    "id": 901,
+    "name": "月月熊",
+    "english_name": "Ursaluna",
+    "generation": 8
+  },
+  {
+    "id": 902,
+    "name": "幽尾玄鱼",
+    "english_name": "Basculegion",
+    "generation": 8
+  },
+  {
+    "id": 903,
+    "name": "大狃拉",
+    "english_name": "Sneasler",
+    "generation": 8
+  },
+  {
+    "id": 904,
+    "name": "万针鱼",
+    "english_name": "Overqwil",
+    "generation": 8
+  },
+  {
+    "id": 905,
+    "name": "眷恋云",
+    "english_name": "Enamorus",
+    "generation": 8
+  },
+  {
+    "id": 906,
+    "name": "新叶喵",
+    "english_name": "Sprigatito",
+    "generation": 9
+  },
+  {
+    "id": 907,
+    "name": "蒂蕾喵",
+    "english_name": "Floragato",
+    "generation": 9
+  },
+  {
+    "id": 908,
+    "name": "魔幻假面喵",
+    "english_name": "Meowscarada",
+    "generation": 9
+  },
+  {
+    "id": 909,
+    "name": "呆火鳄",
+    "english_name": "Fuecoco",
+    "generation": 9
+  },
+  {
+    "id": 910,
+    "name": "炙烫鳄",
+    "english_name": "Crocalor",
+    "generation": 9
+  },
+  {
+    "id": 911,
+    "name": "骨纹巨声鳄",
+    "english_name": "Skeledirge",
+    "generation": 9
+  },
+  {
+    "id": 912,
+    "name": "润水鸭",
+    "english_name": "Quaxly",
+    "generation": 9
+  },
+  {
+    "id": 913,
+    "name": "涌跃鸭",
+    "english_name": "Quaxwell",
+    "generation": 9
+  },
+  {
+    "id": 914,
+    "name": "狂欢浪舞鸭",
+    "english_name": "Quaquaval",
+    "generation": 9
+  },
+  {
+    "id": 915,
+    "name": "爱吃豚",
+    "english_name": "Lechonk",
+    "generation": 9
+  },
+  {
+    "id": 916,
+    "name": "飘香豚",
+    "english_name": "Oinkologne",
+    "generation": 9
+  },
+  {
+    "id": 917,
+    "name": "团珠蛛",
+    "english_name": "Tarountula",
+    "generation": 9
+  },
+  {
+    "id": 918,
+    "name": "操陷蛛",
+    "english_name": "Spidops",
+    "generation": 9
+  },
+  {
+    "id": 919,
+    "name": "豆蟋蟀",
+    "english_name": "Nymble",
+    "generation": 9
+  },
+  {
+    "id": 920,
+    "name": "烈腿蝗",
+    "english_name": "Lokix",
+    "generation": 9
+  },
+  {
+    "id": 921,
+    "name": "布拨",
+    "english_name": "Pawmi",
+    "generation": 9
+  },
+  {
+    "id": 922,
+    "name": "布土拨",
+    "english_name": "Pawmo",
+    "generation": 9
+  },
+  {
+    "id": 923,
+    "name": "巴布土拨",
+    "english_name": "Pawmot",
+    "generation": 9
+  },
+  {
+    "id": 924,
+    "name": "一对鼠",
+    "english_name": "Tandemaus",
+    "generation": 9
+  },
+  {
+    "id": 925,
+    "name": "一家鼠",
+    "english_name": "Maushold",
+    "generation": 9
+  },
+  {
+    "id": 926,
+    "name": "狗仔包",
+    "english_name": "Fidough",
+    "generation": 9
+  },
+  {
+    "id": 927,
+    "name": "麻花犬",
+    "english_name": "Dachsbun",
+    "generation": 9
+  },
+  {
+    "id": 928,
+    "name": "迷你芙",
+    "english_name": "Smoliv",
+    "generation": 9
+  },
+  {
+    "id": 929,
+    "name": "奥利纽",
+    "english_name": "Dolliv",
+    "generation": 9
+  },
+  {
+    "id": 930,
+    "name": "奥利瓦",
+    "english_name": "Arboliva",
+    "generation": 9
+  },
+  {
+    "id": 931,
+    "name": "怒鹦哥",
+    "english_name": "Squawkabilly",
+    "generation": 9
+  },
+  {
+    "id": 932,
+    "name": "盐石宝",
+    "english_name": "Nacli",
+    "generation": 9
+  },
+  {
+    "id": 933,
+    "name": "盐石垒",
+    "english_name": "Naclstack",
+    "generation": 9
+  },
+  {
+    "id": 934,
+    "name": "盐石巨灵",
+    "english_name": "Garganacl",
+    "generation": 9
+  },
+  {
+    "id": 935,
+    "name": "炭小侍",
+    "english_name": "Charcadet",
+    "generation": 9
+  },
+  {
+    "id": 936,
+    "name": "红莲铠骑",
+    "english_name": "Armarouge",
+    "generation": 9
+  },
+  {
+    "id": 937,
+    "name": "苍炎刃鬼",
+    "english_name": "Ceruledge",
+    "generation": 9
+  },
+  {
+    "id": 938,
+    "name": "光蚪仔",
+    "english_name": "Tadbulb",
+    "generation": 9
+  },
+  {
+    "id": 939,
+    "name": "电肚蛙",
+    "english_name": "Bellibolt",
+    "generation": 9
+  },
+  {
+    "id": 940,
+    "name": "电海燕",
+    "english_name": "Wattrel",
+    "generation": 9
+  },
+  {
+    "id": 941,
+    "name": "大电海燕",
+    "english_name": "Kilowattrel",
+    "generation": 9
+  },
+  {
+    "id": 942,
+    "name": "偶叫獒",
+    "english_name": "Maschiff",
+    "generation": 9
+  },
+  {
+    "id": 943,
+    "name": "獒教父",
+    "english_name": "Mabosstiff",
+    "generation": 9
+  },
+  {
+    "id": 944,
+    "name": "滋汁鼹",
+    "english_name": "Shroodle",
+    "generation": 9
+  },
+  {
+    "id": 945,
+    "name": "涂标客",
+    "english_name": "Grafaiai",
+    "generation": 9
+  },
+  {
+    "id": 946,
+    "name": "纳噬草",
+    "english_name": "Bramblin",
+    "generation": 9
+  },
+  {
+    "id": 947,
+    "name": "怖纳噬草",
+    "english_name": "Brambleghast",
+    "generation": 9
+  },
+  {
+    "id": 948,
+    "name": "原野水母",
+    "english_name": "Toedscool",
+    "generation": 9
+  },
+  {
+    "id": 949,
+    "name": "陆地水母",
+    "english_name": "Toedscruel",
+    "generation": 9
+  },
+  {
+    "id": 950,
+    "name": "毛崖蟹",
+    "english_name": "Klawf",
+    "generation": 9
+  },
+  {
+    "id": 951,
+    "name": "热辣娃",
+    "english_name": "Capsakid",
+    "generation": 9
+  },
+  {
+    "id": 952,
+    "name": "狠辣椒",
+    "english_name": "Scovillain",
+    "generation": 9
+  },
+  {
+    "id": 953,
+    "name": "虫滚泥",
+    "english_name": "Rellor",
+    "generation": 9
+  },
+  {
+    "id": 954,
+    "name": "虫甲圣",
+    "english_name": "Rabsca",
+    "generation": 9
+  },
+  {
+    "id": 955,
+    "name": "飘飘雏",
+    "english_name": "Flittle",
+    "generation": 9
+  },
+  {
+    "id": 956,
+    "name": "超能艳鸵",
+    "english_name": "Espathra",
+    "generation": 9
+  },
+  {
+    "id": 957,
+    "name": "小锻匠",
+    "english_name": "Tinkatink",
+    "generation": 9
+  },
+  {
+    "id": 958,
+    "name": "巧锻匠",
+    "english_name": "Tinkatuff",
+    "generation": 9
+  },
+  {
+    "id": 959,
+    "name": "巨锻匠",
+    "english_name": "Tinkaton",
+    "generation": 9
+  },
+  {
+    "id": 960,
+    "name": "海地鼠",
+    "english_name": "Wiglett",
+    "generation": 9
+  },
+  {
+    "id": 961,
+    "name": "三海地鼠",
+    "english_name": "Wugtrio",
+    "generation": 9
+  },
+  {
+    "id": 962,
+    "name": "下石鸟",
+    "english_name": "Bombirdier",
+    "generation": 9
+  },
+  {
+    "id": 963,
+    "name": "波普海豚",
+    "english_name": "Finizen",
+    "generation": 9
+  },
+  {
+    "id": 964,
+    "name": "海豚侠",
+    "english_name": "Palafin",
+    "generation": 9
+  },
+  {
+    "id": 965,
+    "name": "噗隆隆",
+    "english_name": "Varoom",
+    "generation": 9
+  },
+  {
+    "id": 966,
+    "name": "普隆隆姆",
+    "english_name": "Revavroom",
+    "generation": 9
+  },
+  {
+    "id": 967,
+    "name": "摩托蜥",
+    "english_name": "Cyclizar",
+    "generation": 9
+  },
+  {
+    "id": 968,
+    "name": "拖拖蚓",
+    "english_name": "Orthworm",
+    "generation": 9
+  },
+  {
+    "id": 969,
+    "name": "晶光芽",
+    "english_name": "Glimmet",
+    "generation": 9
+  },
+  {
+    "id": 970,
+    "name": "晶光花",
+    "english_name": "Glimmora",
+    "generation": 9
+  },
+  {
+    "id": 971,
+    "name": "墓仔狗",
+    "english_name": "Greavard",
+    "generation": 9
+  },
+  {
+    "id": 972,
+    "name": "墓扬犬",
+    "english_name": "Houndstone",
+    "generation": 9
+  },
+  {
+    "id": 973,
+    "name": "缠红鹤",
+    "english_name": "Flamigo",
+    "generation": 9,
+    "aliases": [
+      "纏红鹤"
+    ]
+  },
+  {
+    "id": 974,
+    "name": "走鲸",
+    "english_name": "Cetoddle",
+    "generation": 9
+  },
+  {
+    "id": 975,
+    "name": "浩大鲸",
+    "english_name": "Cetitan",
+    "generation": 9
+  },
+  {
+    "id": 976,
+    "name": "轻身鳕",
+    "english_name": "Veluza",
+    "generation": 9
+  },
+  {
+    "id": 977,
+    "name": "吃吼霸",
+    "english_name": "Dondozo",
+    "generation": 9
+  },
+  {
+    "id": 978,
+    "name": "米立龙",
+    "english_name": "Tatsugiri",
+    "generation": 9
+  },
+  {
+    "id": 979,
+    "name": "弃世猴",
+    "english_name": "Annihilape",
+    "generation": 9
+  },
+  {
+    "id": 980,
+    "name": "土王",
+    "english_name": "Clodsire",
+    "generation": 9
+  },
+  {
+    "id": 981,
+    "name": "奇麒麟",
+    "english_name": "Farigiraf",
+    "generation": 9
+  },
+  {
+    "id": 982,
+    "name": "土龙节节",
+    "english_name": "Dudunsparce",
+    "generation": 9
+  },
+  {
+    "id": 983,
+    "name": "仆刀将军",
+    "english_name": "Kingambit",
+    "generation": 9
+  },
+  {
+    "id": 984,
+    "name": "雄伟牙",
+    "english_name": "Great Tusk",
+    "generation": 9
+  },
+  {
+    "id": 985,
+    "name": "吼叫尾",
+    "english_name": "Scream Tail",
+    "generation": 9
+  },
+  {
+    "id": 986,
+    "name": "猛恶菇",
+    "english_name": "Brute Bonnet",
+    "generation": 9
+  },
+  {
+    "id": 987,
+    "name": "振翼发",
+    "english_name": "Flutter Mane",
+    "generation": 9
+  },
+  {
+    "id": 988,
+    "name": "爬地翅",
+    "english_name": "Slither Wing",
+    "generation": 9
+  },
+  {
+    "id": 989,
+    "name": "沙铁皮",
+    "english_name": "Sandy Shocks",
+    "generation": 9
+  },
+  {
+    "id": 990,
+    "name": "铁辙迹",
+    "english_name": "Iron Treads",
+    "generation": 9,
+    "aliases": [
+      "铁轍迹"
+    ]
+  },
+  {
+    "id": 991,
+    "name": "铁包袱",
+    "english_name": "Iron Bundle",
+    "generation": 9
+  },
+  {
+    "id": 992,
+    "name": "铁臂膀",
+    "english_name": "Iron Hands",
+    "generation": 9
+  },
+  {
+    "id": 993,
+    "name": "铁脖颈",
+    "english_name": "Iron Jugulis",
+    "generation": 9
+  },
+  {
+    "id": 994,
+    "name": "铁毒蛾",
+    "english_name": "Iron Moth",
+    "generation": 9
+  },
+  {
+    "id": 995,
+    "name": "铁荆棘",
+    "english_name": "Iron Thorns",
+    "generation": 9
+  },
+  {
+    "id": 996,
+    "name": "凉脊龙",
+    "english_name": "Frigibax",
+    "generation": 9
+  },
+  {
+    "id": 997,
+    "name": "冻脊龙",
+    "english_name": "Arctibax",
+    "generation": 9
+  },
+  {
+    "id": 998,
+    "name": "戟脊龙",
+    "english_name": "Baxcalibur",
+    "generation": 9
+  },
+  {
+    "id": 999,
+    "name": "索财灵",
+    "english_name": "Gimmighoul",
+    "generation": 9
+  },
+  {
+    "id": 1000,
+    "name": "赛富豪",
+    "english_name": "Gholdengo",
+    "generation": 9
+  },
+  {
+    "id": 1001,
+    "name": "古简蜗",
+    "english_name": "Wo-Chien",
+    "generation": 9
+  },
+  {
+    "id": 1002,
+    "name": "古剑豹",
+    "english_name": "Chien-Pao",
+    "generation": 9
+  },
+  {
+    "id": 1003,
+    "name": "古鼎鹿",
+    "english_name": "Ting-Lu",
+    "generation": 9
+  },
+  {
+    "id": 1004,
+    "name": "古玉鱼",
+    "english_name": "Chi-Yu",
+    "generation": 9
+  },
+  {
+    "id": 1005,
+    "name": "轰鸣月",
+    "english_name": "Roaring Moon",
+    "generation": 9
+  },
+  {
+    "id": 1006,
+    "name": "铁武者",
+    "english_name": "Iron Valiant",
+    "generation": 9
+  },
+  {
+    "id": 1007,
+    "name": "故勒顿",
+    "english_name": "Koraidon",
+    "generation": 9
+  },
+  {
+    "id": 1008,
+    "name": "密勒顿",
+    "english_name": "Miraidon",
+    "generation": 9
+  },
+  {
+    "id": 1009,
+    "name": "波荡水",
+    "english_name": "Walking Wake",
+    "generation": 9
+  },
+  {
+    "id": 1010,
+    "name": "铁斑叶",
+    "english_name": "Iron Leaves",
+    "generation": 9
+  },
+  {
+    "id": 1011,
+    "name": "裹蜜虫",
+    "english_name": "Dipplin",
+    "generation": 9
+  },
+  {
+    "id": 1012,
+    "name": "斯魔茶",
+    "english_name": "Poltchageist",
+    "generation": 9
+  },
+  {
+    "id": 1013,
+    "name": "来悲粗茶",
+    "english_name": "Sinistcha",
+    "generation": 9
+  },
+  {
+    "id": 1014,
+    "name": "够赞狗",
+    "english_name": "Okidogi",
+    "generation": 9
+  },
+  {
+    "id": 1015,
+    "name": "愿增猿",
+    "english_name": "Munkidori",
+    "generation": 9
+  },
+  {
+    "id": 1016,
+    "name": "吉雉鸡",
+    "english_name": "Fezandipiti",
+    "generation": 9
+  },
+  {
+    "id": 1017,
+    "name": "厄诡椪",
+    "english_name": "Ogerpon",
+    "generation": 9
+  },
+  {
+    "id": 1018,
+    "name": "铝钢桥龙",
+    "english_name": "Archaludon",
+    "generation": 9
+  },
+  {
+    "id": 1019,
+    "name": "蜜集大蛇",
+    "english_name": "Hydrapple",
+    "generation": 9
+  },
+  {
+    "id": 1020,
+    "name": "破空焰",
+    "english_name": "Gouging Fire",
+    "generation": 9
+  },
+  {
+    "id": 1021,
+    "name": "猛雷鼓",
+    "english_name": "Raging Bolt",
+    "generation": 9
+  },
+  {
+    "id": 1022,
+    "name": "铁磐岩",
+    "english_name": "Iron Boulder",
+    "generation": 9
+  },
+  {
+    "id": 1023,
+    "name": "铁头壳",
+    "english_name": "Iron Crown",
+    "generation": 9
+  },
+  {
+    "id": 1024,
+    "name": "太乐巴戈斯",
+    "english_name": "Terapagos",
+    "generation": 9
+  },
+  {
+    "id": 1025,
+    "name": "桃歹郎",
+    "english_name": "Pecharunt",
+    "generation": 9
+  }
+]

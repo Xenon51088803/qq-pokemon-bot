@@ -1,0 +1,30 @@
+{
+  "prepared_at": "2026-10-15T02:32:00.581927+00:00",
+  "sources": {
+    "pokemon": {
+      "url": "https://fastly.jsdelivr.net/gh/PokeAPI/pokeapi@master/data/v2/csv/pokemon.csv",
+      "sha256": "16c81c33188b0eac403aa2f759fcbe9e42c611f722d263f5b5a6a5bff9f8ce6b"
+    },
+    "pokemon_types": {
+      "url": "https://fastly.jsdelivr.net/gh/PokeAPI/pokeapi@master/data/v2/csv/pokemon_types.csv",
+      "sha256": "f1fc4bfd657a034ea3bf6972423b10276424aa068577b304a78a08996425ba05"
+    },
+    "type_names": {
+      "url": "https://fastly.jsdelivr.net/gh/PokeAPI/pokeapi@master/data/v2/csv/type_names.csv",
+      "sha256": "685230c51074cf2f723debcf827a4df4c36ab0ec7e929c806ad65a3e40958705"
+    },
+    "pokemon_species_names": {
+      "url": "https://fastly.jsdelivr.net/gh/PokeAPI/pokeapi@master/data/v2/csv/pokemon_species_names.csv",
+      "sha256": "820cde17074cdb1c2b0595c997fb8f998e773bd5da3bb525dec85703c86c5fd9"
+    },
+    "pokemon_species_flavor_text": {
+      "url": "https://fastly.jsdelivr.net/gh/PokeAPI/pokeapi@master/data/v2/csv/pokemon_species_flavor_text.csv",
+      "sha256": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69"
+    }
+  },
+  "profiles_sha256": "adb61ea0dabb5cb7d1f569205298936eeea8a6bd5c8f3803093f13223a06d1e1",
+  "language_id": 12,
+  "description_selection": "Chinese language 12, highest available version_id; missing entries use Chinese official Pokedex default-form page, first description. Source URL recorded per species.",
+  "type_basis": "Current default form types, including later type changes such as Fairy.",
+  "notice": "Pokemon data and game text belong to their respective rights holders."
+}
