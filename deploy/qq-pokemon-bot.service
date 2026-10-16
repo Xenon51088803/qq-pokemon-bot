@@ -1,0 +1,27 @@
+[Unit]
+Description=QQ Pokemon collection bot
+Wants=network-online.target
+After=network-online.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+User=pokemonbot
+Group=pokemonbot
+WorkingDirectory=/YCX/qq-pokemon-bot
+Environment=PYTHONUTF8=1
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/YCX/qq-pokemon-bot/.venv/bin/python -X utf8 -m pokebot.qq
+Restart=on-failure
+RestartSec=10
+KillSignal=SIGINT
+TimeoutStopSec=45
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/YCX/qq-pokemon-bot/runtime
+
+[Install]
+WantedBy=multi-user.target

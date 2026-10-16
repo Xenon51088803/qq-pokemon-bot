@@ -16,6 +16,9 @@ qq.local.json
 *.pem
 *.key
 .tools/
+.bootstrap/
+.python/
+.cache/
 .idea/
 .vscode/
 build/
