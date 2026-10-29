@@ -6,6 +6,7 @@ param(
     [switch]$QQ,
     [switch]$CheckQQ,
     [switch]$ConfigureQQ,
+    [switch]$ConfigurePanel,
     [string]$Restore = '',
     [string]$Once = ''
 )
@@ -59,14 +60,15 @@ if (-not $runtimePython) {
 }
 if ($ConfigureQQ) {
     & $runtimePython -X utf8 -m pokebot.qq_settings
-} elseif ($QQ -or $CheckQQ) {
+} elseif ($QQ -or $CheckQQ -or $ConfigurePanel) {
     try {
         & $runtimePython -c 'import aiohttp' 2>$null
         if ($LASTEXITCODE -ne 0) { throw 'aiohttp missing' }
     } catch {
         throw 'QQ dependency is missing. Run scripts/start.ps1 -Install first.'
     }
-    if ($CheckQQ) { & $runtimePython -X utf8 -m pokebot.qq --check }
+    if ($ConfigurePanel) { & $runtimePython -X utf8 -m pokebot.qq_panel --apply }
+    elseif ($CheckQQ) { & $runtimePython -X utf8 -m pokebot.qq --check }
     else { & $runtimePython -X utf8 -m pokebot.qq }
 } elseif ($Test) {
     & $runtimePython -X utf8 -m unittest discover -s tests -v

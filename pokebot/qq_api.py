@@ -41,10 +41,11 @@ class QQAPI:
         self._token_lock = asyncio.Lock()
         self.media = OrderedDict()
 
-    async def _request(self, method, path, *, body=None, authenticated=True):
+    async def _request(self, method, path, *, body=None, authenticated=True, retry=True):
         if not path.startswith("/") or path.startswith("//"):
             raise ValueError("QQ API 路径必须相对于固定官方域名")
-        for attempt in range(4):
+        attempts = 4 if retry else 1
+        for attempt in range(attempts):
             headers = {"User-Agent": "PokemonCollectionBot/0.2"}
             if authenticated:
                 headers["Authorization"] = "QQBot " + await self.token()
@@ -68,18 +69,18 @@ class QQAPI:
                         return {"duplicate": True}
                     if 200 <= status < 300 and code == 0:
                         return data
-                    if status == 401 and authenticated and attempt < 3:
+                    if status == 401 and authenticated and attempt < attempts - 1:
                         self._refresh_at = 0
                         continue
-                    retry = status == 429 or status >= 500 or code in (100001, 40034100, 50055001, 850027)
-                    if not retry or attempt == 3:
+                    retryable = status == 429 or status >= 500 or code in (100001, 40034100, 50055001, 850027)
+                    if not retryable or attempt == attempts - 1:
                         raise QQAPIError(status, code)
                     try:
                         delay = min(20, max(1, float(response.headers.get("Retry-After", 2 ** attempt))))
                     except (ValueError, TypeError):
                         delay = 2 ** attempt
             except (aiohttp.ClientError, asyncio.TimeoutError):
-                if attempt == 3:
+                if attempt == attempts - 1:
                     # Do not echo HTTP bodies, headers, or request details containing credentials.
                     raise QQAPIError(0) from None
                 delay = 2 ** attempt
