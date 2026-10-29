@@ -87,13 +87,21 @@ async def list_group_panels(api):
             query["cursor"] = cursor
         data = await api._request("GET", "/v2/panels?" + urlencode(query))
         page = data.get("records")
+        # QQ can omit empty repeated/string fields on a terminal empty page.
+        # Never infer emptiness from a missing field without explicit completion,
+        # or when another response shape may carry records under a different key.
+        if ("records" not in data and data.get("is_end") is True
+                and data.get("next_cursor", "") == ""
+                and not set(data) - {"is_end", "next_cursor", "code"}):
+            page = []
         if not isinstance(page, list) or any(
             not isinstance(r, dict) or r.get("scope") != "group"
             or r.get("target_type") not in ("all", "specific")
             or not isinstance(r.get("panel_id"), str) or not r["panel_id"]
             or not isinstance(r.get("panel"), dict) for r in page
         ):
-            raise RuntimeError("平台返回的面板列表格式异常，已停止，未修改配置。")
+            raise RuntimeError("平台返回的面板列表格式异常，已停止进一步操作。\n脱敏结构：\n"
+                               + json.dumps(response_shape(data), ensure_ascii=False, indent=2))
         records.extend(page)
         cursor = data.get("next_cursor")
         if data.get("is_end") is True or cursor == "":

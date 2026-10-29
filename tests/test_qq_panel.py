@@ -51,6 +51,28 @@ class PanelTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(writes[0].kwargs["body"]["scope"], "group")
         self.assertFalse(writes[0].kwargs["retry"])
 
+    async def test_omitted_empty_records_on_terminal_page_can_create(self):
+        for empty in ({"is_end": True}, {"is_end": True, "next_cursor": "", "code": 0}):
+            api = self.api(empty, {"panel_id": "test-panel"}, page([record()]))
+            self.assertIn("回读确认", await configure_panel(api))
+            self.assertEqual(api._request.call_args_list[1].args, ("POST", "/v2/panels"))
+
+    async def test_omitted_terminal_page_preserves_preceding_records(self):
+        api = self.api(page([record()], next_cursor="last", is_end=False), {"is_end": True})
+        self.assertIn("无需修改", await configure_panel(api))
+        self.assertTrue(all(c.args[0] == "GET" for c in api._request.call_args_list))
+
+    async def test_missing_records_require_unambiguous_terminal_empty_response(self):
+        for response in ({"is_end": False}, {"is_end": 1}, {"is_end": "true"},
+                         {"is_end": True, "next_cursor": "another-page"},
+                         {"is_end": True, "records": None},
+                         {"is_end": True, "data": {"records": [record()]}},
+                         {"is_end": True, "panels": [record()]}):
+            api = self.api(response)
+            with self.assertRaisesRegex(RuntimeError, "脱敏结构"):
+                await configure_panel(api)
+            api._request.assert_awaited_once()
+
     async def test_update_owned_panel_preserves_scope_and_uses_version(self):
         old = panel_config()
         old["items"] = old["items"][:1]
