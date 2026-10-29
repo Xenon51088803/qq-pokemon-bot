@@ -63,6 +63,8 @@ runuser -u pokemonbot -- .venv/bin/python -X utf8 -m pokebot.qq_panel --apply
 
 Windows 也可双击 **配置QQ指令面板.cmd** 注册面板；应选服务器或电脑其中一处执行，不要同时运行。仅查看将要配置的内容时，在项目目录运行 `python -m pokebot.qq_panel`，此模式不读取凭证、不联网。
 
+若提示“面板列表格式异常”，先不要重复配置。在服务器项目目录执行 `runuser -u pokemonbot -- .venv/bin/python -X utf8 -m pokebot.qq_panel --diagnose`。它使用已有凭证查询一次列表，只显示字段结构、类型、列表长度和固定枚举；隐藏菜单文字、ID、游标及未知字段名，不创建或修改面板，不发送群消息。可将诊断输出用于排查官方实际返回格式；`--diagnose` 与 `--apply` 不能同时使用。
+
 工具先完整查询已有群聊面板，只更新带本项目标记的全局面板；配置相同则跳过。若已有其他全局面板或重复面板，会停止并保留原配置。已有指定群面板不作修改，可能影响相应群的显示，需要在平台另行核对。写入后会回读核验；网络中断或回读未确认时不声称成功，也不自动重试创建，稍后重新执行会先查询。遇到权限错误时保留 HTTP 状态与平台错误码，检查指令面板能力、服务器 IP 白名单及网络。
 
 依据：[官方面板说明](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/menu-panel/)、[创建指令面板](https://bot.q.qq.com/wiki/develop/api-v2/autogen/api/v2_panels.post.html)。接口注册成功仍需客户端验收。

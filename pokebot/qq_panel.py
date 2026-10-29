@@ -25,6 +25,41 @@ COMMANDS = (
     ("帮助", "查看全部指令"),
 )
 
+# Only documented structural keys and harmless enum values may appear in reports.
+# Unknown keys can themselves contain identifiers, so never print them verbatim.
+DIAGNOSTIC_KEYS = frozenset({
+    "data", "result", "records", "panels", "list", "items", "panel", "panel_id",
+    "scope", "target_type", "next_cursor", "is_end", "version", "code", "message",
+    "remark", "name", "desc", "type", "only_admin", "link", "created_at", "updated_at",
+    "user_openids", "group_openids", "total", "count", "limit", "cursor",
+})
+
+
+def response_shape(value, key="", depth=0):
+    """Describe an API response without exposing values or arbitrary field names."""
+    if depth >= 7:
+        return "<深层内容已省略>"
+    if isinstance(value, dict):
+        return {(k if k in DIAGNOSTIC_KEYS else f"<未知字段{i}>"):
+                response_shape(v, k, depth + 1)
+                for i, (k, v) in enumerate(list(value.items())[:30])}
+    if isinstance(value, list):
+        return {"长度": len(value), "前两项结构": [response_shape(v, depth=depth + 1) for v in value[:2]]}
+    if value is None or isinstance(value, bool):
+        return value
+    if isinstance(value, str):
+        if (key == "scope" and value in ("group", "c2c", "channel", "dm")) or (
+                key == "target_type" and value in ("all", "specific")):
+            return value
+        return "<空字符串>" if not value else "<字符串已隐藏>"
+    return "<数值>" if isinstance(value, (int, float)) else "<其他类型>"
+
+
+async def diagnose_panel(api):
+    data = await api._request("GET", "/v2/panels?scope=group&limit=50")
+    return "面板查询结构（已隐藏内容及标识）：\n" + json.dumps(
+        response_shape(data), ensure_ascii=False, indent=2)
+
 
 def panel_config():
     # QQ uses name itself as the inserted command, not a separate display label.
@@ -102,23 +137,26 @@ async def configure_panel(api):
     return "群聊指令面板已配置，并已通过官方接口回读确认。"
 
 
-async def apply_panel():
+async def apply_panel(diagnose=False):
     settings = QQSettings.load()
     async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=30)) as session:
-        return await configure_panel(QQAPI(session, settings))
+        api = QQAPI(session, settings)
+        return await diagnose_panel(api) if diagnose else await configure_panel(api)
 
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description="配置 QQ 原生群聊指令面板（默认仅离线预览）")
-    parser.add_argument("--apply", action="store_true", help="使用本机凭证向 QQ 注册或更新面板")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--apply", action="store_true", help="使用本机凭证向 QQ 注册或更新面板")
+    mode.add_argument("--diagnose", action="store_true", help="只查询面板并显示脱敏结构，不修改配置")
     args = parser.parse_args(argv)
-    if not args.apply:
+    if not args.apply and not args.diagnose:
         print(json.dumps({"scope": "group", "target_type": "all", "panel": panel_config()},
                          ensure_ascii=False, indent=2))
         print("当前仅预览，未读取凭证、未联网。添加 --apply 才会配置 QQ 面板。")
         return 0
     try:
-        print(asyncio.run(apply_panel()))
+        print(asyncio.run(apply_panel(diagnose=args.diagnose)))
     except QQAPIError as exc:
         print(f"面板配置未确认（HTTP {exc.status}，代码 {exc.code}）。")
         print("请核对 QQ 平台指令面板权限、服务器 IP 白名单和网络。")
@@ -130,6 +168,9 @@ def main(argv=None):
     except (OSError, aiohttp.ClientError):
         print("无法读取本机配置或连接 QQ，请检查文件权限及网络。")
         return 1
+    if args.diagnose:
+        print("诊断完成：仅查询面板，未创建或修改菜单，未发送群消息。")
+        return 0
     print("请在 QQ 群输入框选择 @机器人验收；点击选项会填入指令，仍需点击发送。")
     print("显示位置与客户端版本有关；接口配置成功不代表客户端验收已通过。")
     return 0

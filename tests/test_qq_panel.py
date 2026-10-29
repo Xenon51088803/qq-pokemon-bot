@@ -9,7 +9,8 @@ import aiohttp
 from pokebot.catalog import Catalog
 from pokebot.config import ROOT
 from pokebot.qq_api import QQAPI, QQAPIError
-from pokebot.qq_panel import COMMANDS, configure_panel, list_group_panels, main, panel_config
+from pokebot.qq_panel import (COMMANDS, configure_panel, diagnose_panel, list_group_panels,
+                             main, panel_config, response_shape)
 from pokebot.qq_settings import QQSettings
 from pokebot.service import parse
 from test_qq import Response, Session
@@ -27,6 +28,18 @@ def page(records, **changes):
 class PanelTests(unittest.IsolatedAsyncioTestCase):
     def api(self, *responses):
         return SimpleNamespace(_request=AsyncMock(side_effect=responses))
+
+    async def test_diagnosis_only_queries_and_redacts_values_and_unknown_keys(self):
+        api = self.api({"data": {"records": [{"panel_id": "private-panel-id",
+                        "remark": "private-text", "group_openids": ["private-group-id"],
+                        "private-dynamic-key": "private-secret", "scope": "group",
+                        "target_type": "all"}], "is_end": True, "next_cursor": ""}})
+        report = await diagnose_panel(api)
+        self.assertNotIn("private-", report)
+        self.assertIn('"data"', report)
+        self.assertIn('"scope": "group"', report)
+        self.assertIn('"is_end": true', report)
+        api._request.assert_awaited_once_with("GET", "/v2/panels?scope=group&limit=50")
 
     async def test_create_verify_then_rerun_without_write(self):
         api = self.api(page([]), {"panel_id": "test-panel"}, page([record()]), page([record()]))
@@ -105,6 +118,19 @@ class PanelTests(unittest.IsolatedAsyncioTestCase):
 
 
 class PanelCommandTests(unittest.TestCase):
+    def test_diagnostic_cli_does_not_claim_configuration_success(self):
+        with patch("pokebot.qq_panel.apply_panel", new=AsyncMock(return_value="脱敏结构")) as run, \
+                redirect_stdout(io.StringIO()) as output:
+            self.assertEqual(main(["--diagnose"]), 0)
+        run.assert_awaited_once_with(diagnose=True)
+        self.assertIn("仅查询面板", output.getvalue())
+        self.assertNotIn("请在 QQ 群输入框", output.getvalue())
+
+    def test_diagnostic_distinguishes_missing_null_and_empty_records(self):
+        self.assertEqual(response_shape({}), {})
+        self.assertEqual(response_shape({"records": None}), {"records": None})
+        self.assertEqual(response_shape({"records": []}), {"records": {"长度": 0, "前两项结构": []}})
+
     def test_preview_never_loads_credentials_or_connects(self):
         with patch("pokebot.qq_panel.QQSettings.load") as load, \
                 patch("pokebot.qq_panel.aiohttp.ClientSession") as session, \
